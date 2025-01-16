@@ -248,6 +248,34 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\dataset_appendicits\anonymized_appendicitis\k_10_anonymized_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\dataset_appendicits\anonymized_appendicitis\k_3_anonymized_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\dataset_appendicits\anonymized_appendicitis\k_5_anonymized_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\dataset_appendicits\dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

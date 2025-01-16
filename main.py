@@ -49,17 +49,18 @@ def main():
         hierarchies=hierarchies
     )
     alpha_k_anon_data.to_csv(f"{OUTPUT_DIR}/adult_k{K}_A{ALPHA}_Sup{SUPPRESSION_LEVEL}.csv", index=False)
-    l_diverse_data = run_anonymization_method(
-        apply_l_diversity,
-        data,
-        identifiers=IDENTIFIERS,
-        quasi_identifiers=QUASI_IDENTIFIERS,
-        sensitive_attribute=SENSITIVE_ATTRIBUTE,
-        k=K,
-        l=L,
-        suppression_level=SUPPRESSION_LEVEL,
-        hierarchies=hierarchies
-    )
+    # l_diverse_data = run_anonymization_method(
+    #     apply_l_diversity,
+    #     data,
+    #     identifiers=IDENTIFIERS,
+    #     quasi_identifiers=QUASI_IDENTIFIERS,
+    #     sensitive_attribute=SENSITIVE_ATTRIBUTE,
+    #     k=K,
+    #     l=L,
+    #     suppression_level=SUPPRESSION_LEVEL,
+    #     hierarchies=hierarchies
+    # )
+    # l_diverse_data.to_csv(f"{OUTPUT_DIR}/adult_k{K}_L{L}_Sup{SUPPRESSION_LEVEL}.csv", index=False)
 
 if __name__ == "__main__":
     main()
