@@ -1,4 +1,4 @@
-# Privacy Umbrella: Data Anonymization Tool
+# Privacy Enhancement: Data Anonymization Tool
 
 ## Overview
 
@@ -75,7 +75,7 @@ The `evaluation.py` module provides functions to assess the quality of anonymiza
 
 ## Contributing
 
-Contributions to Privacy Umbrella are welcome! Please feel free to submit a Pull Request.
+Contributions to this project are welcome! Please feel free to submit a Pull Request.
 
 
 ## Acknowledgments
