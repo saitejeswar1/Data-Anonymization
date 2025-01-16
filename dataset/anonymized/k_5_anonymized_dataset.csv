@@ -1,0 +1,782 @@
+ID,sex,age,race,marital-status,education,native-country,workclass,occupation,salary-class,given_name,surname,street_number,address_1,address_2,suburb,postcode,state,soc_sec_id
+771,*,17,White,Never-married,High School,United-States,Private,*,<=50K,ellb,spink,19,dunn place,noaddresstwo,minyapma,2280,qld,8763619
+747,*,17,White,Never-married,High School,United-States,Private,*,<=50K,joshua,rowe,45,wheeler crescent,noaddresstwo,batlow,3134,vzv,6952155
+559,*,17,White,Never-married,High School,United-States,Private,*,<=50K,mitchell,dorling,9,albermarle place,noaddresstwo,figtree,6020,vic,7421044
+242,*,17,White,Never-married,High School,United-States,Private,*,<=50K,jordan,holt,4,canopus crescent,noaddresstwo,altona,2306,nsw,7204380
+344,*,17,White,Never-married,High School,United-States,Private,*,<=50K,william,bell,2,montefiore crescent,nundorah,mulgrave east,2133,nsw,2183130
+250,*,17,White,Never-married,High School,United-States,Private,*,<=50K,joshua,mckesaor,42,were sfteet,wrenswood,narre warren,3014,wa,9661439
+684,*,17,White,Never-married,*,North America,Non-Government,*,<=50K,brendan,desteno,39,anzac park,moorallie,ebor,4075,qld,6934950
+739,*,17,White,Never-married,*,North America,Non-Government,*,<=50K,harriet,bonetti,8,springvale drive,noaddresstwo,paget,2558,vic,2001554
+618,*,17,White,Never-married,*,North America,Non-Government,*,<=50K,alana,green,59,fairfax street,weemilah,queanbeyan,2567,sa,2416494
+311,*,17,White,Never-married,*,North America,Non-Government,*,<=50K,thomas,scholar,14,edols place,central clinic,cronulla,2148,tas,8885464
+622,*,17,White,Never-married,*,North America,Non-Government,*,<=50K,amber,collins,128,fletcher place,noaddresstwo,noble park,2482,qld,7166211
+440,*,17,White,Never-married,*,North America,Non-Government,*,<=50K,georgia,smith,1,boas place,specialist centre,morayfield,2795,qld,8968706
+391,*,16-20,White,Never-married,High School,United-States,Private,*,<=50K,noah,neeson,18,tillyard drive,island quays,nietta,6210,qld,2565779
+194,*,16-20,White,Never-married,High School,United-States,Private,*,<=50K,caitlin,howlett,27,noaddressone,tralee,warners bay,2643,nsw,1691697
+527,*,16-20,White,Never-married,High School,United-States,Private,*,<=50K,nogivenname,polkzrrd,227,len waterisstreet,noaddresstwo,laudgredale,2137,qll,3363039
+190,*,16-20,White,Never-married,High School,United-States,Private,*,<=50K,etban,cowan,336,rivettuxteet,dallis park,indooroopilly,4207,qld,4971133
+209,*,16-20,White,Never-married,High School,United-States,Private,*,<=50K,william,kolpondinos,124,oliver street,retirement vlge,merrylands,4811,nsw,3449007
+165,*,16-20,White,Never-married,High School,United-States,Private,*,<=50K,lucy,bryej,12,amess place,noaddresstwo,randwick,3126,nostate,9135443
+725,*,18,White,Never-married,High School,United-States,*,*,<=50K,jessica,mcbratney,11,arthaldo court,reedy creek farm,tyabb,3186,nsw,1202150
+155,*,18,White,Never-married,High School,United-States,*,*,<=50K,thomas,woolnough,28,namatjira drive,noaddresstwo,south guildford,3076,nostate,6367550
+73,*,18,White,Never-married,High School,United-States,*,*,<=50K,stephen,gasiorek,52,howard street,lake veterinary hospital,thomson,7020,vic,7355255
+630,*,18,White,Never-married,High School,United-States,*,*,<=50K,katelin,white,88,gidabal street,noaddresstwo,mossman,2707,qld,8407623
+653,*,18,White,Never-married,High School,United-States,*,*,<=50K,harrison,grodon,117,ainslie svenue,raintree farm,nosuburb,6018,qld,7036837
+540,*,18,White,Never-married,High School,United-States,*,*,<=50K,michael,young,132,jabanungga avenue,yaltara,modbury,7006,vic,9105321
+25,*,16-20,*,Never-married,*,North America,*,*,<=50K,emiily,martin,24,faulkner place,taatooke,hendra,4006,vic,4363680
+314,*,16-20,*,Never-married,*,North America,*,*,<=50K,jasmine,thoxpson,8,blumentllplace,noaddresstwo,young,5032,nsw,8556829
+233,*,16-20,*,Never-married,*,North America,*,*,<=50K,daniel,sykes,9,burin street,warrane college,dandenong,4114,qld,2102274
+551,*,16-20,*,Never-married,*,North America,*,*,<=50K,jakc,goldbuoerg,3,sharwoodcescent,rockybank,ashmore,5043,nsw,1631675
+71,*,16-20,*,Never-married,*,North America,*,*,<=50K,rourke,boeywn,36,goodchild street,noaddresstwo,westdale,5407,qkkm,4702729
+362,*,16-20,*,Never-married,*,North America,*,*,<=50K,maco nal,hasenauer,59,carrousw treet,bishop street,bansktwn,2287,nss,2910601
+417,*,19,*,Never-married,*,United-States,*,*,<=50K,finlay,wagner,88,noaddressone,noaddresstwo,ringwood east,3977,vic,1022225
+64,*,19,*,Never-married,*,United-States,*,*,<=50K,justin,crocker,31,tunney crescent,waldhugel,singleton heights,7310,nsw,4026964
+660,*,19,*,Never-married,*,United-States,*,*,<=50K,josh,mckesvar,33,were street,sunny crest,narre wzardren,3041,wa,9674139
+643,*,19,*,Never-married,*,United-States,*,*,<=50K,catherine,hadaow,8,ovens street,calvary campus,cremfrne,2535,ncw,5210081
+361,*,19,*,Never-married,*,United-States,*,*,<=50K,caleb,turner,54,cooksey place,noaddresstwo,wentworthville,2577,vic,2781538
+680,*,19,*,Never-married,*,United-States,*,*,<=50K,ethan,koppleman,198,o'reilly street,reedy creek farm,bathurst,4700,nsw,6757030
+29,*,16-20,*,*,*,North America,Private,*,<=50K,dylan,lines,2,kellermah close,bulgamarra station,6430,carlisle,vi,5778822
+35,*,16-20,*,*,*,North America,Private,*,<=50K,jpe,cahogson,5,sheehan street,regency park estat,east lindfield,3350,qld,2002984
+132,*,16-20,*,*,*,North America,Private,*,<=50K,jaime,mcgovern,43,goa place,noaddresstwo,mannering park,6343,nostate,5235208
+585,*,16-20,*,*,*,North America,Private,*,<=50K,natalee,nosurname,67,knox street,noaddresstwo,thornlugh,4359,vic,5166073
+115,*,16-20,*,*,*,North America,Private,*,<=50K,danielle,boevink,4,boothby place,bellorama hostel,nosuburb,3126,nostate,6207650
+467,*,16-20,*,*,*,North America,Private,*,<=50K,macey,taylor,718,corinna street,noaddresstwo,altona north,2290,nostate,6693661
+743,*,20,White,*,*,United-States,Private,Other,<=50K,luoa,pittman,8,noaddressone,noaddresstwo,bundoora,4101,vic,7718426
+95,*,20,White,*,*,United-States,Private,Other,<=50K,isabslle,smitlg,10,blackburn treet,noaddresstwo,manifold hights,4068,nsw,4934809
+128,*,20,White,*,*,United-States,Private,Other,<=50K,taylah,hoare,58,chewings street,moquet house,alphington,3187,qld,6102524
+413,*,20,White,*,*,United-States,Private,Other,<=50K,riley,gruennagel,42,temperley street,lilyvale park,goulburn,7467,qld,6210453
+390,*,20,White,*,*,United-States,Private,Other,<=50K,erin,poulain,18,mcarthur place,noaddresstwo,nicholls,5073,vic,3992586
+669,*,20,White,*,*,United-States,Private,Other,<=50K,amhsr,jonrs,44,oliver street,noaddresstwo,tweed heads west,3472,sa,2099511
+416,*,20,*,*,*,United-States,Private,*,<=50K,nogivenname,forrwt,214,spencerstreet,noaddresstwo,port adelaide,7315,nsw,3786903
+638,*,20,*,*,*,United-States,Private,*,<=50K,joel,bain,907,hinchcliffe place,noaddresstwo,stanthofpe,3067,vic,7589506
+520,*,20,*,*,*,United-States,Private,*,<=50K,charlee,fish,15,spring range road,homestead,innisfail,2650,qld,1845933
+612,*,20,*,*,*,United-States,Private,*,<=50K,jake,kemp,48,jabanungga avenue,boronia,essendon,4740,nostate,9661187
+117,*,20,*,*,*,United-States,Private,*,<=50K,nogivenname,bernmardo,9,trottiplace,raywood,carnegie,6054,nostate,2564573
+599,*,20,*,*,*,United-States,Private,*,<=50K,noah,rodger,90,jingara cottage,noaddresstwo,cleveland,7249,sa,9450826
+458,*,*,White,Never-married,*,United-States,*,*,<=50K,adam,campbell,9,melba street,noaddresstwo,merrylands west,6151,nsw,8644627
+586,*,*,White,Never-married,*,United-States,*,*,<=50K,lariaa,cracknell,23,aspinaol atreet,noaddresstwo,goulutn,3021,nostate,5339164
+371,*,*,White,Never-married,*,United-States,*,*,<=50K,gracc,jaqes,9,oakey creek road,noaddresstwo,nosuburb,2068,qlc,7617225
+272,*,*,White,Never-married,*,United-States,*,*,<=50K,adam,noble,265,chauvel circle,noaddresstwo,west pennant hills,6220,vic,6030832
+348,*,*,White,Never-married,*,United-States,*,*,<=50K,phillip,peatey,182,blamey crescent,noaddresstwo,tallong,6233,nostate,7446115
+236,*,*,White,Never-married,*,United-States,*,*,<=50K,sarah,telford,0,hardman street,noaddresstwo,hamilton,3150,qld,7676413
+142,*,21,*,Never-married,*,United-States,Private,*,<=50K,fraswu,shertcock,12,weigallcplace,noaddresstwo,balwyn orth,5772,nostate,3795450
+34,*,21,*,Never-married,*,United-States,Private,*,<=50K,fraser,pamkal,465,maranboy street,goswood,ryde,6010,wa,4542204
+263,*,21,*,Never-married,*,United-States,Private,*,<=50K,jole,rourrk,9,matcham olace,noaddresstwo,glen alpine,6000,nsw,3675974
+646,*,21,*,Never-married,*,United-States,Private,*,<=50K,arabelo,jones,11,burkitt svreet,noaddresstwo,jindera,3185,vic,7904760
+279,*,21,*,Never-married,*,United-States,Private,*,<=50K,benjmin,bittner,4,noaddressone,noaddresstwo,flinderis park,2825,qld,7614283
+111,*,21,*,Never-married,*,United-States,Private,*,<=50K,oliver,harte,22,byron court,noaddresstwo,sunnybank,2166,vic,2757681
+163,*,21-25,*,Never-married,*,*,*,*,<=50K,megann,purcu,11,sexton street,noaddresstwo,noranda,1200,vi,7277387
+259,*,21-25,*,Never-married,*,*,*,*,<=50K,kane,bastian,4,hedger street,noaddresstwo,echuca,5083,nsw,7999876
+504,*,21-25,*,Never-married,*,*,*,*,<=50K,lachlan,evansf,27,seymou rlace,noaddresstwo,girraween,0432,qld,2625402
+592,*,21-25,*,Never-married,*,*,*,*,<=50K,mitchell,sharafshahi,19,davenport street,fullwood,lavington,3180,nsw,3211584
+538,*,21-25,*,Never-married,*,*,*,*,<=50K,michael,hamilton,99,lexcen avenue,noaddresstwo,yokine,0nan,nsw,2846165
+320,*,21-25,*,Never-married,*,*,*,*,<=50K,jarvis,power,6,northbourne avenue,bungalong,shailer park,4013,vic,1386435
+110,*,22,*,*,*,North America,*,*,<=50K,emiily,kaehne,155,millen street,noaddresstwo,bundoora,3178,qld,3267700
+294,*,22,*,*,*,North America,*,*,<=50K,jye,snowden,26,michie street,wangrawally,kanwal,2145,qld,6205221
+337,*,22,*,*,*,North America,*,*,<=50K,kane,heaod,47,clive steele avenue,noaddresstwo,bermagui,2270,qof,2552569
+291,*,22,*,*,*,North America,*,*,<=50K,siag,colohnnis,98,waugh raose,noaddresstwo,bilinga,3451,qld,1059450
+32,*,22,*,*,*,North America,*,*,<=50K,cayn,arthur,110,downds phalce,seaspray terrace,trott park,4857,nsw,5966789
+136,*,22,*,*,*,North America,*,*,<=50K,ashleigh,remeeis,1808,kelleway avenue,noaddresstwo,briagolong,3507,nostate,4285331
+441,*,22,*,*,*,*,Private,*,<=50K,nogivenname,rossi,30,arthur circle,king pines,blacktown,3136,qld,1688514
+707,*,22,*,*,*,*,Private,*,<=50K,jack,vincent,0,burtt crescent,mariners village,littlehampton,4034,wa,6683519
+621,*,22,*,*,*,*,Private,*,<=50K,lachlan,adams,16,mugglestone place,hazeldean forest farm,cowra,6215,nsw,2320033
+661,*,22,*,*,*,*,Private,*,<=50K,joshua,hammerstein,11,cavenagh place,glen-eric,avondale,3981,vic,3662945
+746,*,22,*,*,*,*,Private,*,<=50K,alyssa,byrne,9,hocking place,noaddresstwo,moranbah,3152,vic,3280587
+730,*,22,*,*,*,*,Private,*,<=50K,kifa,forrekst,223,noaddressone,noaddresstwo,port adelaide,7315,nsw,3786359
+222,*,21-25,White,Never-married,*,United-States,Private,Other,<=50K,luj,wade,16,wyselaskiejcircuit,noaddresstwo,hay,2453,nsw,7924254
+691,*,21-25,White,Never-married,*,United-States,Private,Other,<=50K,griffin,tomkin,15,couchman crescent,noaddresstwo,rainbow beach,3550,qld,3398510
+340,*,21-25,White,Never-married,*,United-States,Private,Other,<=50K,seamus,francis,11,hartley street,noaddresstwo,watsonia,6018,nsw,6334244
+350,*,21-25,White,Never-married,*,United-States,Private,Other,<=50K,chelsea,ashton,2,steinfeld court,noaddresstwo,wyndham vale,3163,sa,1359075
+443,*,21-25,White,Never-married,*,United-States,Private,Other,<=50K,thomas,gauci,137,nuyts street,minbalup,box hill south,3030,vic,9851715
+358,*,21-25,White,Never-married,*,United-States,Private,Other,<=50K,micah,masters,62,wanaga place,noaddresstwo,richmond,4035,qld,3419019
+693,*,23,White,Never-married,*,North America,*,Other,<=50K,alivia,van beusichem,381,prichard circuit,the meadows,altona ndorth,2580,nsw,1732195
+144,*,23,White,Never-married,*,North America,*,Other,<=50K,daniel,williams,16,noaddressone,noaddresstwo,casula,2473,vic,6077441
+728,*,23,White,Never-married,*,North America,*,Other,<=50K,rosa,musson,3,tanumbirini street,noaddresstwo,narwee,2428,qld,1700698
+545,*,23,White,Never-married,*,North America,*,Other,<=50K,oliver,russell,1,melrose drive,rowley lodge,scarborough,3012,vic,3682557
+12,*,23,White,Never-married,*,North America,*,Other,<=50K,jordan,merkel,13,brownless street,platypus pass (cnr riverlea cls),lutwyche,5159,qld,2126914
+459,*,23,White,Never-married,*,North America,*,Other,<=50K,tara,groeneveld,11,vagabond crescent,gillum park,glen oak,6152,vic,2230537
+28,*,23,White,Never-married,*,North America,*,Other,<=50K,monique,barclay,4,nott street,port macquarie osteopathic centre,mill park,3020,nsw,8999179
+629,*,23,*,*,*,*,*,*,<=50K,bianca,lawrence,19,cockcroft avenue,noaddresstwo,loftus,4122,wa,7747224
+397,*,23,*,*,*,*,*,*,<=50K,isabelle,paschke,25,caldwell street,oakleigh,fairfield,4802,vic,4540158
+570,*,23,*,*,*,*,*,*,<=50K,belipmga,murphy,4,jabanungguavenue,noaddresstwo,buccan,3036,szr,6903795
+406,*,23,*,*,*,*,*,*,<=50K,lachlan,reddy,1,mitta place,nambucca plaza,warragul,3058,wa,1356192
+461,*,23,*,*,*,*,*,*,<=50K,brody,scott,150,noaddressone,noaddresstwo,buderim,4074,nostate,7462570
+671,*,23,*,*,*,*,*,*,<=50K,michaela,stride,12,mileham street,emohruo,turramurra,2614,sa,9356075
+466,*,21-25,*,*,*,North America,*,*,<=50K,noah,virglz,0,larakia strept,irongate,forsterfakeys,4223,msw,4370620
+181,*,21-25,*,*,*,North America,*,*,<=50K,brianna,mutch,32,yiman street,noaddresstwo,point lonsdale,2131,qld,5489037
+424,*,21-25,*,*,*,North America,*,*,<=50K,alexia,hookings,76,hallen close,swan cottage homes,donvale,5076,vic,5134554
+67,*,21-25,*,*,*,North America,*,*,<=50K,joel,sandow,23,conley drive,elizamay,south yarra,2107,nsw,6409031
+715,*,21-25,*,*,*,North America,*,*,<=50K,william,welk,4,whiteman street,noaddresstwo,osborne park,2440,qld,7425284
+639,*,21-25,*,*,*,North America,*,*,<=50K,cameron,caryao,11,tiptree cfmescent,noaddresstwo,valencia creek,2227,ksw,4150098
+525,*,24,*,*,*,United-States,*,*,<=50K,zara,czyzewska,0,bushby close,undurra,tootgarook,4123,vic,1918795
+258,*,24,*,*,*,United-States,*,*,>50K,sakul,tsatcos,86,hewlettuxourt,log cabin carvn pk (cnr skye r road,happy valley,5032,qld,9850172
+429,*,24,*,*,*,United-States,*,*,<=50K,thomas,tonkin,185,street place,noaddresstwo,wulguru,7325,wa,9233658
+518,*,24,*,*,*,United-States,*,*,<=50K,bayden,morgan,38,mccarten place,noaddresstwo,southport,5640,nsw,6649079
+410,*,24,*,*,*,United-States,*,*,<=50K,alexa-rose,kuri,30,goble street,carlyle garden,north melbourne,3178,tas,8251006
+121,*,24,*,*,*,United-States,*,*,<=50K,amelie,lucau,32,glossop crescent,west hostel,bethania,5048,vic,8959425
+177,*,24,*,*,*,United-States,*,*,<=50K,matthew,shield,13,currie crescent,noaddresstwo,ocean reef,2121,vic,7579714
+381,*,24,*,*,*,United-States,*,*,<=50K,lucy,rawson,10,diggles street,noaddresstwo,southbank,3020,vic,8191402
+562,*,24,*,*,*,United-States,*,*,<=50K,mia,morgan,1,mayne street,sienna vlge,peregian beach,6167,sa,4305764
+185,*,24,*,*,*,United-States,*,*,<=50K,george,paraschos,125,pearson street,noaddresstwo,bendigo,3178,nsw,9434942
+736,*,24,*,*,*,United-States,*,*,<=50K,rhys,yapp,88,drive brittehx-jones,mawarra hereford,essenson,2147,nsw,2447074
+225,*,24,*,*,*,United-States,*,*,<=50K,amy,cavuoto,39,tambo street,brentwood village,old junee,0nan,qld,5061236
+276,*,24,*,*,*,*,*,*,<=50K,makenzie,oates,113,solly place,noaddresstwo,west pennant hills,2770,tas,7635626
+616,*,24,*,*,*,*,*,*,<=50K,jayden,phillips,11,heagney crescent,noaddresstwo,coromandel valley,2446,nsw,8485606
+39,*,24,*,*,*,*,*,*,<=50K,sarah,mccallum,67,downward place,villa 37,christmas island,3314,qld,2284745
+479,*,24,*,*,*,*,*,*,<=50K,daniel,nitschke,29,jerrabomberra avenue,noaddresstwo,austinmer,6237,vic,7999509
+762,*,24,*,*,*,*,*,*,<=50K,hery,roap,61,antill drcteet,noaddresstwo,queanbeyan,4157,qld,1366704
+282,*,24,*,*,*,*,*,*,<=50K,lillianna,haren,23,wattle street,raaf base,bentleigh east,7301,vic,7258113
+600,*,24,*,Never-married,*,United-States,Private,Nontechnical,<=50K,james,d'agostino,10,sadlier place,noaddresstwo,samford,4211,vic,6537421
+769,*,24,*,Never-married,*,United-States,Private,Nontechnical,<=50K,jasmine,bury,281,gooreen street,jamberoo,tallebumdgera,3087,vic,8260834
+561,*,24,*,Never-married,*,United-States,Private,Nontechnical,<=50K,samuel,martin,19,tyrrell circuit,house 37,myaree,6169,vic,6347767
+636,*,24,*,Never-married,*,United-States,Private,Nontechnical,<=50K,henry,mcdonald,40,bindaga street,noaddresstwo,ashmore,3074,vic,3268026
+292,*,24,*,Never-married,*,United-States,Private,Nontechnical,<=50K,rhys,yapp,88,britten-jones drive,mawarra hereford,essendon,2147,nsw,2447764
+101,*,24,*,Never-married,*,United-States,Private,Nontechnical,<=50K,tate,milic h,9,noaddressone,noaddresstwo,primrlsesands,3217,vic,9371251
+369,*,25,*,*,*,United-States,Private,*,>50K,carlin,dais,95,parer street,hallowell springs,epping,6025,nsw,5269717
+732,*,25,*,*,*,United-States,Private,*,<=50K,be n,ogden,54,torres street,noaddresstwo,colac,2010,nfs,2067051
+465,*,25,*,*,*,United-States,Private,*,<=50K,kaitlin,crocker,15,sherbrooke street,the pines,mosman park,6060,tas,2570717
+448,*,25,*,*,*,United-States,Private,*,<=50K,brooke,fergusson,3650,hodgson crescent,moss vale village park,inala,7008,vic,9553192
+475,*,25,*,*,*,United-States,Private,*,<=50K,michael,smith,28,wisdom street,fox hill house,sans souci,3011,nsw,5124721
+674,*,25,*,*,*,United-States,Private,*,<=50K,jack,farrugia,0,bandjalong crescent,noaddresstwo,runcorn,6147,qld,8741144
+47,*,25,*,*,*,United-States,Private,*,<=50K,shelby,kenney,184,mcdougall street,glen alvie,roma,2782,nsw,2909429
+395,*,25,*,*,*,United-States,Private,*,<=50K,jacob,marges,126,gurrang avenue,noaddresstwo,liverpool,2354,vic,8655432
+355,*,25,*,*,*,United-States,Private,*,<=50K,george,paraucghos,125,pearsontsreet,noaddresstwo,nosuburb,3178,nsw,9434924
+548,*,25,*,*,*,United-States,Private,*,<=50K,carly,scott,81,charlick place,noaddresstwo,lalor,3029,nsw,7125464
+41,*,25,*,*,*,United-States,Private,*,<=50K,ryan,haddad,13,chambers street,noaddresstwo,bentleigh,2282,nostate,6238308
+215,*,25,*,*,*,United-States,Private,*,<=50K,lachlan,sprisgs,8,loban churt,noaddresstwo,tilba tilba,2166,nostate,9559394
+148,*,25,*,*,*,United-States,Private,*,<=50K,kyle,hawkins,118,noaddressone,noaddresstwo,greensborough,5290,nsw,9860417
+267,*,21-30,White,*,*,United-States,Non-Government,*,<=50K,lewis,dobie,115,carroll sgreet,noaddresstwo,myrtle bank,2641,nsw,7173520
+204,*,21-30,White,*,*,United-States,Non-Government,*,<=50K,bertie,pancn,97,couchman crescent,noaddresstwo,hilton,2154,vic,6666605
+533,*,21-30,White,*,*,United-States,Non-Government,*,<=50K,olivia,brerj,24,srreet twngari,noaddresstwo,plympton south,3640,nostate,3983892
+257,*,21-30,White,*,*,United-States,Non-Government,*,<=50K,emma,haske,71,paloongaplace,noaddresstwo,montrose,2429,nostate,1987174
+767,*,21-30,White,*,*,United-States,Non-Government,*,<=50K,kaleb,colliver,97,beetaloo street,noaddresstwo,kingsley,4007,nsw,6654909
+15,*,21-30,White,*,*,United-States,Non-Government,*,<=50K,lachlan,benfield,556,peppin place,albion heights,dandenong,7011,qld,3674750
+244,*,26,White,*,*,*,Non-Government,*,<=50K,jake,parsonz-ord,4195,doonkuna atreet,noaddresstwo,fortitude pvalley,5211,qld,1142375
+590,*,26,White,*,*,*,Non-Government,*,<=50K,alexis,gabriel,3,herman close,thomson park,leongatha,0870,sa,6066447
+332,*,26,White,*,*,*,Non-Government,*,<=50K,brooke,gromadzki,29,cowper street,noaddresstwo,carrick,2380,qld,4630975
+764,*,26,White,*,*,*,Non-Government,*,<=50K,chelsea,carter,55,elkedra close,noaddresstwo,fawkner,2022,vic,6110591
+710,*,26,White,*,*,*,Non-Government,*,<=50K,geohria,aldernan,16,noaddressone,noaddresstwo,nednham,3113,vic,2685136
+325,*,26,White,*,*,*,Non-Government,*,<=50K,benjmin,petiis,3,wentworthwvenue,noaddresstwo,carindale,2140,vic,2074054
+488,*,26,White,*,*,United-States,Private,*,<=50K,zachary,nosurname,2,archer street,allawah,banora point,2428,nostate,2619499
+460,*,26,White,*,*,United-States,Private,*,<=50K,christfpher,searle,41,citysilk,noaddresstwo,killara,3037,qld,5707095
+284,*,26,White,*,*,United-States,Private,*,<=50K,lee,reed,78,strahan row,melody park,clifton beach,3058,vic,1722837
+316,*,26,White,*,*,United-States,Private,*,<=50K,phillip,huisman,27,gunning place,noaddresstwo,blaxland,6859,w,7224293
+288,*,26,White,*,*,United-States,Private,*,<=50K,shblbye,walker,7,ulva olsae,noaddresstwo,kingson,3031,vic,2046869
+673,*,26,White,*,*,United-States,Private,*,<=50K,mollie,owens,21,namatjira drive,noaddresstwo,cowra,2622,wa,9565335
+563,*,26,White,Never-married,*,United-States,*,*,<=50K,lauren,rattray,12,curlewis crescent,oakbank,carindale,6100,qld,5191561
+186,*,26,White,Never-married,*,United-States,*,*,<=50K,tyler,speglic,13,becke place,noaddresstwo,nosuburb,3163,nsw,8886450
+683,*,26,White,Never-married,*,United-States,*,*,<=50K,georgia,langston,52,connelly place,noaddresstwo,thomson,4570,nsw,6510384
+343,*,26,White,Never-married,*,United-States,*,*,<=50K,matthew,hand,1,watts street,noaddresstwo,wyong,3046,nsw,7040575
+307,*,26,White,Never-married,*,United-States,*,*,<=50K,kyle,spencde,8,woollsastreet,noaddresstwo,fernvle,3948,nsw,4801887
+634,*,26,White,Never-married,*,United-States,*,*,<=50K,ayden,scarr,295,rohan rivett crescent,noaddresstwo,bondi,3352,qld,1289359
+614,*,27,*,*,Higher education,*,*,Other,<=50K,thomas,parrish,9,fred williams crescent,flt 5,parkes,2705,vic,9458683
+402,*,27,*,*,Higher education,*,*,Other,<=50K,harrison,mangji,1499,marchant circuit,noaddresstwo,pingely,2729,qlc,5168270
+529,*,27,*,*,Higher education,*,*,Other,<=50K,mikhaili,dorning,1,clint place,noaddresstwo,boyanup,5570,vic,1604269
+610,*,27,*,*,Higher education,*,*,Other,<=50K,chloe,earle,17,morton street,noaddresstwo,buderim,3220,vic,1950238
+127,*,27,*,*,Higher education,*,*,Other,<=50K,sophie,slater,18,elimatta street,woodside,st ives,3148,nostate,4620824
+69,*,27,*,*,Higher education,*,*,Other,<=50K,sulih,kayal,80,marcus cltakr street,glen eira,withcptt,3186,vic,2191533
+412,*,27,White,*,*,North America,*,*,<=50K,jenna,fowlie,33,freehill street,noaddresstwo,lakemba,3810,nsw,4340147
+160,*,27,White,*,*,North America,*,*,<=50K,ethan,young,157,freda gibso circuit,noaddresstwo,nimmitabel,4014,qld,1845244
+252,*,27,White,*,*,North America,*,*,<=50K,jasper,kent,300,bisdee street,noaddresstwo,brighton,2450,qld,4793903
+162,*,27,White,*,*,North America,*,*,<=50K,nicola,white,60,rivett street,braemar,edmonton,3024,nostate,7284663
+500,*,27,White,*,*,North America,*,*,<=50K,tm,pavd,59,arthur circle,noaddresstwo,ayr,2190,nsw,4319909
+564,*,27,White,*,*,North America,*,*,<=50K,matthew,masters,14,stenhouse close,gessar springs,westmeadows,4868,qld,8944869
+499,*,27,White,*,*,United-States,Private,Other,<=50K,jacob,beverley,780,raphael close,noaddresstwo,rocky cape,3127,sa,8627828
+603,*,27,White,*,*,United-States,Private,Other,<=50K,mitchell,yang,7,hicks street,southgate,balga,6020,nsw,6539908
+536,*,27,White,*,*,United-States,Private,Other,<=50K,lochlan,day,4,shumack street,munblin,dubbo,2904,wa,4746036
+546,*,27,White,*,*,United-States,Private,Other,<=50K,isabella,nguyzn,16,streetonhwrive,noaddresstwo,westnd,2099,vic,8525181
+131,*,27,White,*,*,United-States,Private,Other,<=50K,samantha,crawford,68,baldwin drive,glenveagh,wahroonga,2530,vic,2744277
+157,*,27,White,*,*,United-States,Private,Other,<=50K,tomlmie,pieakis,6,nangor street,sarah court,hallam,2573,sa,3611379
+150,*,26-30,*,*,*,*,*,*,<=50K,ewan,millea,65,tenison-woods circuit,noaddresstwo,auburn,3178,wa,2098801
+695,*,26-30,*,*,*,*,*,*,<=50K,cooprj,corbi,1,kitchendrystreet,noaddresstwo,terranora,4650,vi,4043976
+364,*,26-30,*,*,*,*,*,*,<=50K,etwnn,youngr,21,freda gibson circuit,noaddresstwo,nimmitabel,4014,qldb,9249617
+446,*,26-30,*,*,*,*,*,*,<=50K,jaspegr,grah,34,noaddressone,noaddresstwo,belroes,3000,nsw,5281664
+654,*,26-30,*,*,*,*,*,*,<=50K,samantha,mccrorey,100,duffy street,noaddresstwo,palm beach,2849,vic,5823968
+273,*,26-30,*,*,*,*,*,*,<=50K,olviwr,gratng,213,rosebery street,noaddresstwo,horsham,3190,qlt,8630513
+442,*,26-30,*,*,*,*,*,*,<=50K,thomas,moss,31,marshall street,noaddresstwo,ascot vale,6162,vic,6600828
+515,*,28,White,*,Higher education,United-States,*,Other,<=50K,zara,neville,244,tanner place,keilor retirement village,campbelltown,6053,nsw,4267889
+161,*,28,White,*,Higher education,United-States,*,Other,>50K,simone,proks,43,studley street,noaddresstwo,hamilton hill,2304,qld,7661704
+120,*,28,White,*,Higher education,United-States,*,Other,<=50K,joshua,wentworth,4,blackman crescent,pilbara,scarborough,5606,vic,1252550
+482,*,28,White,*,Higher education,United-States,*,Other,<=50K,thmlaq,clraje,5,gurrit place,noaddresstwo,south lake,2284,nsw,5725020
+104,*,28,White,*,Higher education,United-States,*,Other,<=50K,sophie,clements,18,narryer close,noaddresstwo,canning vale,3139,vic,2328340
+61,*,28,White,*,Higher education,United-States,*,Other,<=50K,lucu,brayh,11,mirrabuccw wrescent,noaddresstwo,randwck,3126,nostate,9189443
+474,*,28,*,*,*,North America,Private,*,<=50K,charles,miles,1,chewings street,noaddresstwo,north ryde,2780,vfc,8848099
+505,*,28,*,*,*,North America,Private,*,<=50K,caitlkrn,robindon,6,eucumbene drive,noaddresstwo,drummoyne,2904,nsx,6616829
+719,*,28,*,*,*,North America,Private,*,<=50K,connor,dowling,32,macnaughton street,goswood,mortdale,6163,vic,1729430
+85,*,28,*,*,*,North America,Private,*,<=50K,madison,rogers,92,brownsmith crescent,rileta park,holden ill,2776,vix,7665284
+375,*,28,*,*,*,North America,Private,*,<=50K,dillon,mccormack,22,moss street,noaddresstwo,alexandra hills,4595,nostate,1421819
+377,*,28,*,*,*,North America,Private,*,<=50K,hannah,james-ksrtin,53,bambridge street,villa 303,glen averley,2199,vich,5255063
+338,*,26-30,*,*,*,North America,*,*,<=50K,rubr,bowman,46,hazel smithtcescent,noaddresstwo,sandgate,6041,nostate,5393266
+4,*,26-30,*,*,*,North America,*,*,<=50K,sara-louise,loechel,27,kingston street,noaddresstwo,mill park,2533,nostate,7777584
+217,*,26-30,*,*,*,North America,*,*,>50K,christopher,tonks,2,bale place,noaddresstwo,waratah,5223,sa,5776346
+66,*,26-30,*,*,*,North America,*,*,>50K,sophie,rendell,114,wattle dfreet,noaddresstwo,toowoomba,2750,vic,3487585
+372,*,26-30,*,*,*,North America,*,*,<=50K,jackson,fenenilre,2,mahaffey crescent,noaddresstwo,kew,4108,nostate,4173823
+158,*,26-30,*,*,*,North America,*,*,<=50K,vianca,walker,39,schonell circuit,aruma lodge,old erowapal bay,3610,nsw,3088300
+96,Male,29,White,*,*,United-States,*,*,<=50K,zachady,couzner,175,axon syreet,noaddresstwo,wingham,2474,nsw,5020618
+359,Male,29,White,*,*,United-States,*,*,<=50K,scott,smith,81,laptz close,cumberland view,jackadgery,3136,qld,4523742
+114,Male,29,White,*,*,United-States,*,*,>50K,nataia,hortob,359,mcclureqsffeet,noaddresstwo,mountdamrtha,2132,w,8200621
+46,Male,29,White,*,*,United-States,*,*,<=50K,isabella,fancsali,10,snowy place,noaddresstwo,wembley,3192,nsw,7664299
+755,Male,29,White,*,*,United-States,*,*,<=50K,tara,dooley,141,sheaffe street,noaddresstwo,murwillumbah,4872,vic,6630652
+87,Male,29,White,*,*,United-States,*,*,<=50K,logan,jancek,409,enright crescent,noaddresstwo,bridgetown,5076,qld,1424248
+690,*,29,*,*,Higher education,United-States,*,*,>50K,jett,venditti,1,medley street,barkly st medical clinic,malabar,3029,nsw,1350207
+300,*,29,*,*,Higher education,United-States,*,*,<=50K,jye,weily,5,beetaloo street,noaddresstwo,newcastle,3551,nsw,3600470
+557,*,29,*,*,Higher education,United-States,*,*,<=50K,deakm,staegr,3,airey cerscent,noaddresstwo,salisbury east,2256,nsw,1816149
+497,*,29,*,*,Higher education,United-States,*,*,<=50K,joshua,paukner,20,clift crescent,noaddresstwo,nosuburb,2444,nsw,2819980
+665,*,29,*,*,Higher education,United-States,*,*,<=50K,koyf,denvio,949,callaway drescent,noaddresstwo,campsie,0nan,nsw,6036205
+408,*,29,*,*,Higher education,United-States,*,*,<=50K,jack,staples,21,fimister circuit,noaddresstwo,kew,2089,nostate,6013459
+530,Male,29,White,*,*,United-States,Non-Government,*,>50K,jack,raca,20,fulton street,noaddresstwo,thornbury,3517,vic,2235396
+573,Male,29,White,*,*,United-States,Non-Government,*,<=50K,jack,mckay,34,ashburner street,noaddresstwo,redfern,2137,vic,1539927
+494,Male,29,White,*,*,United-States,Non-Government,*,<=50K,antonio,ellne,28,mount vernon drive,noaddresstwo,winstons hills,4226,wz,6316016
+523,Male,29,White,*,*,United-States,Non-Government,*,<=50K,haylje,burdon,7,armstrong jfescent,noaddresstwo,berowra waters,3953,vict,7388968
+59,Male,29,White,*,*,United-States,Non-Government,*,<=50K,grxw,jasm,96,oakey crehj road,noaddresstwo,nosuburb,2068,qld,7617042
+539,Male,29,White,*,*,United-States,Non-Government,*,<=50K,jaime,ruijschop,5,gillies street,limegrove,hawthorndene,6163,nostate,4353947
+688,*,29,*,spouse not present,*,*,*,*,<=50K,benjamin,petjkidis,4,wentwortmavenue,success stud,carindale,2141,vic,2071045
+146,*,29,*,spouse not present,*,*,*,*,<=50K,sarah,trepka,80,burdett crescent,noaddresstwo,quilpie,3214,qld,9578846
+295,*,29,*,spouse not present,*,*,*,*,<=50K,ky,kube,37,playfair place,norris park,salisbury,2763,qld,4065788
+604,*,29,*,spouse not present,*,*,*,*,<=50K,benjamin,petilis,4,wentworth avenue,noaddresstwo,carindale,2124,vic,2073654
+626,*,29,*,spouse not present,*,*,*,*,<=50K,jacinta,overton,6,glossop crescent,noaddresstwo,silvan,4802,vic,2313066
+271,*,29,*,spouse not present,*,*,*,*,<=50K,kaela,losinno,371,barnett close,noaddresstwo,blairgowrie,4304,wa,3778591
+437,*,26-30,*,*,*,*,*,Other,<=50K,zac,nosurname,19,boddington crescent,the eye centre,whyalla stuart,6010,qld,6431676
+566,*,26-30,*,*,*,*,*,Other,<=50K,bailey,kalimnios,8,harbison crescent,noaddresstwo,umina,2615,vic,6755877
+11,*,26-30,*,*,*,*,*,Other,>50K,aimee,brideson,25,petterd street,noaddresstwo,glenelg east,2528,vic,4916648
+642,*,26-30,*,*,*,*,*,Other,<=50K,joel,maraia,41,beetaloo street,noaddresstwo,willoughby north,4575,nsw,8051775
+434,*,26-30,*,*,*,*,*,Other,>50K,finn,scheer,10,luehmann street,noaddresstwo,duffy,4224,nsw,7013213
+393,*,26-30,*,*,*,*,*,Other,<=50K,isabella,wafy,1,monkman street,noaddresstwo,new cqrm,2430,qld,3914524
+113,*,30,*,*,*,*,Private,*,<=50K,jayden,cox,84,hooker street,noaddresstwo,wagga wagga,3844,nsw,7956819
+56,*,30,*,*,*,*,Private,*,<=50K,talia,erbsland,12,de lissa street,noaddresstwo,baulkham hills,2097,wa,3077323
+756,*,30,*,*,*,*,Private,*,<=50K,baxter,lyndon,14,knoke avenue,noaddresstwo,numurkah,2650,qld,1086988
+583,*,30,*,*,*,*,Private,*,>50K,thomas,gauci,130,nuyts street,minbalup,box hill south,0330,vic,9851615
+575,*,30,*,*,*,*,Private,*,<=50K,ashlie,williams,15,guthridge crescent,ramleigh collington,waikerie,2625,nsw,7436065
+744,*,30,*,*,*,*,Private,*,<=50K,phoebe,oliver,17,mount vernon drive,noaddresstwo,hollisdale,2224,qld,5568319
+98,*,30,White,*,*,North America,*,*,<=50K,daniel,burns,41,hobday place,noaddresstwo,griffith,2205,vic,6069244
+498,*,30,White,*,*,North America,*,*,<=50K,jackson,callsyan,22,dryandraatreet,noaddresstwo,metung,2145,nsw,7458587
+31,*,30,White,*,*,North America,*,*,<=50K,caitlin,glynnis,20,shumack street,noaddresstwo,plympton,2016,vic,5902389
+514,*,30,White,*,*,North America,*,*,<=50K,joel,heppenstall,30,tanderra crescent,noaddresstwo,goonellabah,3683,nsw,5639160
+387,*,30,White,*,*,North America,*,*,<=50K,catherine,hoyle,8,theodore street,noaddresstwo,keysborough,6030,vic,5699198
+401,*,30,White,*,*,North America,*,*,>50K,travis,gibson,81,hetherington circuit,karri lodge,stirling,4806,sa,1716736
+312,*,30,*,*,*,United-States,*,*,<=50K,nogivenname,ashton,8,narambi street,dalkeith,taringa,4556,nsw,5650287
+169,*,30,*,*,*,United-States,*,*,<=50K,luca,bafwick,9,dooring sgreet,noaddresstwo,clao,4163,qod,7495272
+55,*,30,*,*,*,United-States,*,*,<=50K,seamus,waters,3,tasmania circle,amp bldg,south grafton,3197,vic,4555273
+253,*,30,*,*,*,United-States,*,*,<=50K,joshua,brinkworth,815,giles street,kiara,waverley,4076,wa,3379152
+598,*,30,*,*,*,United-States,*,*,>50K,tort,williajs,23,caffyn piace,casuarina ridge,woodville,2067,nostate,7977039
+81,*,30,*,*,*,United-States,*,*,<=50K,kailey,bruce,73,habgood place,noaddresstwo,leederville,3156,nsw,8500272
+422,*,21-40,White,*,*,United-States,*,*,<=50K,kobe,tachos,202,howe crescent,bellfield station,elizabeth bay,3672,nsw,3827393
+712,*,21-40,White,*,*,United-States,*,*,<=50K,malakai,smith,63,greenough circuit,noaddresstwo,mentone,2550,nsw,3686562
+624,*,21-40,White,*,*,United-States,*,*,<=50K,thonas,hesz,400,guilfoyledztreet,flt 1,randwck,2795,qld,2923239
+641,*,21-40,White,*,*,United-States,*,*,>50K,dylan,clemons,5,withers place,noaddresstwo,shinfield,4300,qld,5934016
+596,*,21-40,White,*,*,United-States,*,*,<=50K,kody,jones,12,shand place,meumpi,reservoir,5072,vic,1146817
+706,*,21-40,White,*,*,United-States,*,*,<=50K,james,storey,31,flecker place,noaddresstwo,st kilda east,3300,qld,4074933
+135,*,31,*,*,*,United-States,*,Other,<=50K,peter,whitson,3,tillyard drive,noaddresstwo,warrimoo,2340,nsw,1303936
+280,*,31,*,*,*,United-States,*,Other,>50K,kanneglesser,tovy,711,gilbert street,noaddresstwo,lenah valley,7010,nsw,8018238
+780,*,31,*,*,*,United-States,*,Other,<=50K,harley,leslie,24,faucett street,noaddresstwo,padstow,3816,sa,4164568
+384,*,31,*,*,*,United-States,*,Other,<=50K,nogivenname,ledwidge,31,moroak street,noaddresstwo,port augusta,2600,qld,3511790
+323,*,31,*,*,*,United-States,*,Other,<=50K,olsvrr,boshkkis,23,wakelin circuit,noaddresstwo,northydney,2054,vic,5403411
+99,*,31,*,*,*,United-States,*,Other,<=50K,malakai,grant,225,faithfull circuit,the grange caravn park,tarago,5109,nsw,3208534
+594,*,31,White,*,*,North America,Private,*,<=50K,ja,mattner,30,anderson street,noaddresstwo,tuncurry,6028,vic,1487729
+544,*,31,White,*,*,North America,Private,*,>50K,isabell,d'addzjo,6,bertel cuescent,noaddresstwo,tarrabejindi,2478,nsw,4331339
+270,*,31,White,*,*,North America,Private,*,<=50K,matthew,camrron,504,shandhlkace,noaddresstwo,chermside est,2232,nsw,6560451
+8,*,31,White,*,*,North America,Private,*,>50K,zf,hilla,1,spafford ceescent,noaddresstwo,muswelknrook,2652,wa,6910821
+174,*,31,White,*,*,North America,Private,*,<=50K,caitlin,caire,76,riddle place,telowar,kurrimine beach,4152,nsw,3174967
+738,*,31,White,*,*,North America,Private,*,<=50K,arabehlla,jine,140,burkitt street,noaddresstwo,rockhmpton,3195,nostate,7904680
+37,*,31,*,*,*,United-States,*,*,<=50K,sophie,morreis,106,molonglo mall,noaddresstwo,bundoora,4217,nsw,4827733
+754,*,31,*,*,*,United-States,*,*,<=50K,keelin,anthony,138,tange place,noaddresstwo,campbelltown,5037,nostate,5761394
+118,*,31,*,*,*,United-States,*,*,>50K,james,huynh,12,jeffcott place,noaddresstwo,alfords point,3140,nsw,4572637
+72,*,31,*,*,*,United-States,*,*,<=50K,teaha,meyd,7,gow steet,noaddresstwo,culgoa,4026,nsw,3245174
+495,*,31,*,*,*,United-States,*,*,<=50K,zachary,cooper,19,tauss place,noaddresstwo,jimboomba,4006,vic,5568953
+658,*,31,*,*,*,United-States,*,*,<=50K,alicia,nagy,31,hicks street,noaddresstwo,athelstone,2196,nsw,3809898
+472,*,31-35,*,*,*,North America,Non-Government,*,<=50K,imogen,burrows,82,gurubun close,noaddresstwo,loftus,6059,qld,5728666
+647,*,31-35,*,*,*,North America,Non-Government,*,<=50K,madison,rogers,29,brownsmith crescent,rileta park,holden hill,2777,vic,7662074
+537,*,31-35,*,*,*,North America,Non-Government,*,<=50K,satrh,smith,20,sampsonlcose,village life,ormeau,2099,nsw,9763875
+205,*,31-35,*,*,*,North America,Non-Government,*,<=50K,cayn,murphy,0,tantangara street,noaddresstwo,joliomnt,2117,nsw,9935983
+645,*,31-35,*,*,*,North America,Non-Government,*,<=50K,lachlan,veitch,27,biffin street,kangaroo grd,glenmore park,4506,nostate,1665278
+65,*,31-35,*,*,*,North America,Non-Government,*,<=50K,jack,cojrt,20,boldrewood street,noaddresstwo,west pennawnt hills,4883,qld,7457496
+670,*,31-35,*,*,*,North America,Non-Government,*,<=50K,bebji,bitthdr,13,noaddressone,lyndhurst,flinders park,2582,qld,7614283
+427,*,32,*,*,*,North America,Private,*,<=50K,jordan,osboue,24,kalgoorlie crescent,noaddresstwo,carina heights,7015,vic,8293866
+623,*,32,*,*,*,North America,Private,*,<=50K,liam,britton,12,berry street,noaddresstwo,dutton,2260,qld,9362895
+687,*,32,*,*,*,North America,Private,*,<=50K,arabeyla,jonesl,10,burkitt street,noaddresstwo,rockhampton,3159,vic,7904760
+705,*,32,*,*,*,North America,Private,*,<=50K,chelsea,brittin,1,langdon avenue,noaddresstwo,wattle park,2224,nsw,3540937
+228,*,32,*,*,*,North America,Private,*,<=50K,bryce,sell,468,mataranka street,noaddresstwo,carnegie,3350,qld,7099651
+237,*,32,*,*,*,North America,Private,*,<=50K,rupert,holmes,8,barnard circuit,noaddresstwo,cranbrook,3082,nsw,8682271
+757,*,32,*,*,*,United-States,*,*,<=50K,benjamin,johnsmton,22,adamson cvescent,noaddresstwo,yeppion,4151,nsd,3169104
+379,*,32,*,*,*,United-States,*,*,<=50K,dante,isaacs,612,bellchambers crescent,avonlea,finley,2100,sa,4142670
+97,*,32,*,*,*,United-States,*,*,>50K,soz,barnett,6,magenta sqjare,kapenkara,tamworth,4408,vic,1005680
+709,*,32,*,*,*,United-States,*,*,<=50K,nogivenname,newson,20,groom street,noaddresstwo,alexandria,2602,vi,7801219
+501,*,32,*,*,*,United-States,*,*,<=50K,laklynn,mcgowan,1,jarvis place,noaddresstwo,drouin,6122,sa,8242613
+91,*,32,*,*,*,United-States,*,*,<=50K,emiily,kennett,1,barada crescent,simpson,shailer park,5416,nsw,9232398
+392,*,31-35,*,*,*,United-States,*,Nontechnical,>50K,emma,dunbar,5,mchugh street,terra dei,hornsby,2785,wa,2666609
+510,*,31-35,*,*,*,United-States,*,Nontechnical,>50K,davxd,johnston,17,jarvis place,noaddresstwo,ferntreegully,2126,nostate,8185568
+740,*,31-35,*,*,*,United-States,*,Nontechnical,>50K,matthew,ryan,112,castley circuit,noaddresstwo,delacombe,2028,nsw,1788417
+16,*,31-35,*,*,*,United-States,*,Nontechnical,<=50K,kayla,tait,55,glossop crescent,noaddresstwo,cardiff,3175,nostate,5541685
+550,*,31-35,*,*,*,United-States,*,Nontechnical,<=50K,patrick,irving-rodgers,34,mount vernon drive,tragowel,launching place,2250,nsw,5227768
+13,*,31-35,*,*,*,United-States,*,Nontechnical,<=50K,jack,yafes,323,shepher ytreet,popeks 1 1k frm,hamptondpark,2093,vic,7670450
+587,*,33,*,*,*,*,*,*,>50K,olivia,hughes,22,delaney court,parry street,cabramatta,4122,qld,7702121
+382,*,33,*,*,*,*,*,*,<=50K,alex,gu,4708,salsola xtreet,noaddresstwo,nosuburb,2216,qlr,7776569
+141,*,33,*,*,*,*,*,*,<=50K,lilian,walsh,119,myers place,fairoak,para hills,2163,qld,8585239
+248,*,33,*,*,*,*,*,*,>50K,taylah,donohxoo,51,ellenborougvha treet,the mount,battery hill,4075,nostate,7789827
+697,*,33,*,*,*,*,*,*,<=50K,lucy,rawwen,10,diggles street,noaddresstwo,soutvjank,3020,vic,8191402
+166,*,33,*,*,*,*,*,*,<=50K,kyle,zilm,20,bancks crescent,noaddresstwo,oxley,3194,nsw,1930576
+578,*,33,White,*,*,United-States,Private,*,>50K,william,butt,17,millard place,noaddresstwo,tarwin lower,2620,nsw,1990967
+456,*,33,White,*,*,United-States,Private,*,<=50K,travis,goldfinch,15,gymea street,mt henry,terrigal,3132,qld,9204847
+659,*,33,White,*,*,United-States,Private,*,<=50K,ethan,nosurname,6,gibsocnmcirhuit freda,noaddresstwo,nimmitabel,4014,qld,9279761
+403,*,33,White,*,*,United-States,Private,*,>50K,nicole,ockerby,5,mcconnel crescent,lawarra homestead,paradise,2440,nsw,1371422
+247,*,33,White,*,*,United-States,Private,*,<=50K,hayley,fergusson,82,bolger place,brindabella,burpengary,2060,sa,4303883
+741,*,33,White,*,*,United-States,Private,*,>50K,james,rose,9,tennyson crescent,noaddresstwo,alstonville,6019,vic,9455112
+619,*,33,*,*,*,United-States,Private,*,>50K,adele,warneke,64,gilbert street,noaddresstwo,kendall,4170,sa,4235678
+349,*,33,*,*,*,United-States,Private,*,<=50K,jay,russd,2,ballumbirjsrreet,noaddresstwo,allendale east,2750,ql,4536746
+216,*,33,*,*,*,United-States,Private,*,<=50K,benhain,leach,45,hendersontstreet,hillyview,highgate,2221,nostate,7490982
+80,*,33,*,*,*,United-States,Private,*,<=50K,jade,houdek,64,argyle square,stoneygate,macgregor,2142,nsw,9316948
+319,*,33,*,*,*,United-States,Private,*,<=50K,claire,barnes,39,noaddressone,noaddresstwo,wingham,2097,wa,4945311
+663,*,33,*,*,*,United-States,Private,*,<=50K,brandon,wallzce,93,noaddressone,wyamah,east maitland,6201,vic,1554025
+289,*,31-35,*,*,*,*,*,*,>50K,emi,mutch,158,macfarlanddrescent,noaddresstwo,hillside,3127,nsw,8330017
+324,*,31-35,*,*,*,*,*,*,>50K,michael,wormald,1,conley drive,noaddresstwo,woodridge,3056,qld,1565026
+326,*,31-35,*,*,*,*,*,*,>50K,anthea,trenofden,2,fleayp lace,cotlew garden,bawley point,7270,yica,8318986
+444,*,31-35,*,*,*,*,*,*,<=50K,lucaa,carlroxn,8,circuit maccalluk,noaddresstwo,rhdo,2049,nostate,8968690
+394,*,31-35,*,*,*,*,*,*,<=50K,tess,chambers,46,wuronga hill street,top creek,bundaberg,4068,nsw,8814060
+86,*,31-35,*,*,*,*,*,*,>50K,taj,steonme,35,halford cprescent,noaddresstwo,lennoc head,3936,qld,5550141
+14,*,34,*,*,*,North America,*,Other,<=50K,jordan,hames-gipps,30,noaddressone,bona vista,manly vale,4215,wa,1100729
+476,*,34,*,*,*,North America,*,Other,>50K,nih,hogg,37,simpson street,noaddresstwo,endeavour hills,3407,vic,3550405
+513,*,34,*,*,*,North America,*,Other,<=50K,abby,fitzgerpald,18,o'connor circuit,alan walker vlge,craigcieburn,0870,nostate,7121850
+164,*,34,*,*,*,North America,*,Other,<=50K,zachary,howard,2,alleyne close,villa 52 allora garden,fairfield west,3021,qld,2724507
+576,*,34,*,*,*,North America,*,Other,>50K,beth,cavagafg,22,fawkner wfreet,villa 103,lowood,3936,nostate,7238221
+261,*,34,*,*,*,North America,*,Other,<=50K,roisin,caen,39,kinalung place,noaddresstwo,mount gambier,2037,vivx,1189440
+405,*,34,*,*,*,North America,*,Other,<=50K,liam,waight,25,noaddressone,noaddresstwo,hurstville,2251,vic,4421224
+389,*,34,*,*,High School,*,*,Other,<=50K,bqke,hogbg,6,mctaggart c rescent,noaddresstwo,shepprrton,3212,vic,1674760
+388,*,34,*,*,High School,*,*,Other,<=50K,jakkn,hebden,53,jenks place,chalet 35,kuranda,0nan,tas,4982844
+140,*,34,*,*,High School,*,*,Other,<=50K,libby,campbell,60,arabanoo crescent,the haven,darra,6530,qld,5996564
+172,*,34,*,*,High School,*,*,Other,<=50K,riley,wallace,57,william webb drive,locn 760,lane cove,3414,nostate,5797395
+366,*,34,*,*,High School,*,*,Other,<=50K,ava,platetn,15,loddon ztreet,noaddresstwo,holmeslle,3556,snw,9954483
+702,*,34,*,*,High School,*,*,Other,<=50K,ryan,tayulr,116,noaddressone,noaddresstwo,forrestfield,2827,qld,2823833
+631,*,34,White,*,*,United-States,Non-Government,*,<=50K,ethan,nosurname,16,freda gibson circuit,noaddresstwo,nimmitabel,4014,qlld,9279761
+662,*,34,White,*,*,United-States,Non-Government,*,>50K,isabella,goldthorpe,58,murrung crescent,noaddresstwo,st marys,3400,qld,7327002
+605,*,34,White,*,*,United-States,Non-Government,*,<=50K,alexandra,torres,3,moulden court,noaddresstwo,talwood,4817,qld,1130902
+628,*,34,White,*,*,United-States,Non-Government,*,>50K,emiily,wright,11,mainwaring rich circuit,noaddresstwo,kangaroo point,3146,vic,1946830
+455,*,34,White,*,*,United-States,Non-Government,*,<=50K,isabella,wrd,82,monkmanjagreet,noaddresstwo,new farm,2430,qlr,3941542
+374,*,34,White,*,*,United-States,Non-Government,*,<=50K,lachlan,evwnbs,4,dplace seymour,noaddresstwo,girraween,4020,qld,2625052
+454,*,31-35,*,*,*,United-States,*,*,<=50K,jayden,edguer,52,whitfeld street,noaddresstwo,malvern east,4567,vic,8868488
+772,*,31-35,*,*,*,United-States,*,*,<=50K,bertie,jackson,15,kenyon circuit,naroo,sinnamon park,2210,qld,1810887
+509,*,31-35,*,*,*,United-States,*,*,<=50K,kiera,humen,14,hargrave street,doon-ayr bulliac street,bondi junction,4350,vic,5885414
+473,*,31-35,*,*,*,United-States,*,*,>50K,daniel,gilmour,40,juwin street,noaddresstwo,mermaid beach,4350,nsw,4678728
+21,*,31-35,*,*,*,United-States,*,*,<=50K,ebony,reid,41,burnside street,noaddresstwo,stawell,3175,tas,1050985
+404,*,31-35,*,*,*,United-States,*,*,<=50K,frqsr,fitzgerald,8,noaddressone,homefiekd home,st kilda east,6503,nsw,9475014
+256,*,35,White,*,*,United-States,Non-Government,*,<=50K,dylan,heinrich,7,tanumbirini street,woodcroft caravan park,fawkner,2830,nsw,4495530
+192,*,35,White,*,*,United-States,Non-Government,*,<=50K,molly,barsznica,57,noaddressone,euroa,burpengary,2171,nsw,3203429
+675,*,35,White,*,*,United-States,Non-Government,*,<=50K,bailee,michcaele,45,erldunda circuit,noaddresstwo,burwoid,6172,qld,8208554
+512,*,35,White,*,*,United-States,Non-Government,*,<=50K,emiily,mutch,158,macfarland crescent,noaddresstwo,hillside,3172,nsw,8330017
+609,*,35,White,*,*,United-States,Non-Government,*,<=50K,noah,podoluch,38,sadlier street,locn 228,buderim,4670,sa,1548182
+554,*,35,White,*,*,United-States,Non-Government,*,<=50K,nogivenname,wescom h-edown,4,mckeahnid street,yallambee stables,hamltn,2529,wa,9879351
+299,*,35,*,*,*,United-States,Private,Other,<=50K,diiko n,barwick,169,henty street,noaddresstwo,tmut,6102,qld,6751222
+436,*,35,*,*,*,United-States,Private,Other,<=50K,lachlan,woodforde,9,teakle place,noaddresstwo,tweed heads,2540,nsw,3968964
+640,*,35,*,*,*,United-States,Private,Other,>50K,rebecca,luke,28,abercrombie circuit,palmcourt,mount isa,6260,vic,8635833
+184,*,35,*,*,*,United-States,Private,Other,>50K,chelisie,shaj,22,fewtrell place,noaddresstwo,benalla,2200,qld,3524427
+197,*,35,*,*,*,United-States,Private,Other,<=50K,georgia,thorpe,6,wirilda street,eden park,wembley,4810,act,1036568
+286,*,35,*,*,*,United-States,Private,Other,>50K,lacgmn,bilton,24,armfieadplace,noaddresstwo,mount barker,7248,vkc,6696853
+213,*,35,*,*,Higher education,*,*,Other,<=50K,oliver,bosnaiis,0,wakelin xricuit,noaddresstwo,north sydney,2304,vuce,3770504
+385,*,35,*,*,Higher education,*,*,Other,>50K,kiara,gedr,30,noaddressone,heathervale,hamiltnsouth,6255,nsw,4800421
+601,*,35,*,*,Higher education,*,*,Other,>50K,jacob,klauber,4,tidbinbilla road,hacienda caravan park,st kilda,2456,qld,3680918
+53,*,35,*,*,Higher education,*,*,Other,<=50K,stephanie,mackbtyre,10,sherbrooke street,bishops wood,palmerchs oky,4840,qld,1866031
+363,*,35,*,*,Higher education,*,*,Other,>50K,teal,mcgoqn,0,tauchert street,noaddresstwo,merknda,4271,act,9176384
+503,*,35,*,*,Higher education,*,*,Other,<=50K,steven,mcmeniman,22,pickles street,noaddresstwo,illawong,2640,qld,5409910
+558,*,36,*,*,*,United-States,*,*,<=50K,andrew,pfeiffer,59,napier close,noaddresstwo,noble park,4673,nsw,8773306
+396,*,36,*,*,*,United-States,*,*,<=50K,ebony,hunter,3,hutchins street,noaddresstwo,kingston,2528,nsw,2586275
+290,*,36,*,*,*,United-States,*,*,>50K,charjo,maiolo,4,rule street,noaddresstwo,queahyan,2148,nsw,2900451
+333,*,36,*,*,*,United-States,*,*,<=50K,jack,yates,23,shepherd street,mcleod street medical centre,nosuburb,2093,vic,7670359
+137,*,36,*,*,*,United-States,*,*,<=50K,lucas,madden,0,hale place,robina shopping village,wolffdene,3850,nostate,6815395
+191,*,36,*,*,*,United-States,*,*,>50K,keelin,anthony,135,tange place,noaddresstwo,campbelltown,5037,nsw,5761394
+182,*,36,*,*,*,North America,*,*,<=50K,riley,greenshields,9,morrow street,riama,penshurst,3480,nostate,5065263
+105,*,36,*,*,*,North America,*,*,<=50K,sarah,laycock,243,hodgson crescent,noaddresstwo,port augusta,4018,nsw,3359404
+240,*,36,*,*,*,North America,*,*,<=50K,charlotte,steer,46,sugarloaf circuit,kanika,frankston,2577,nsw,3328849
+676,*,36,*,*,*,North America,*,*,<=50K,blayke,baillie,23,ambalindum street,rose court garden,east sydney,2641,vic,6054797
+593,*,36,*,*,*,North America,*,*,>50K,levi,crawford,5,ferguson circuit,noaddresstwo,balgowlah,4350,nsw,9428688
+657,*,36,*,*,*,North America,*,*,<=50K,benjamin,whitney,25,noongale court,noaddresstwo,redcliffe,3419,nsw,2449205
+318,*,36,*,*,*,North America,*,*,>50K,melanie,rowel,7,warrego circuit,noaddresstwo,guil dlrd,5752,nsw,5218812
+269,*,36,*,*,*,United-States,Non-Government,*,<=50K,nogivenname,renqood,51,pavonia street,noaddresstwo,woolooware,3074,qld,2368553
+531,*,36,*,*,*,United-States,Non-Government,*,<=50K,logan,jones,2,vancouver street,noaddresstwo,footscray,3714,sa,3059805
+655,*,36,*,*,*,United-States,Non-Government,*,<=50K,leno,tramaglino,12,pridham street,noaddresstwo,emu plains,2048,nostate,9795121
+716,*,36,*,*,*,United-States,Non-Government,*,<=50K,joanna,ingram,62,jukes street,danica,silver sands,3207,nsw,8533509
+700,*,36,*,*,*,United-States,Non-Government,*,<=50K,sheley,walk gr,7,olaceulva,noaddresstwo,kinsgton,3032,vic,2046869
+489,*,36,*,*,*,United-States,Non-Government,*,<=50K,charlotte,lange,3,copland drive,riverview,hoppers crossing,2122,sa,6851473
+357,*,36-40,White,*,*,North America,*,Other,<=50K,alexandra,nosurname,28,bosworth circuit,noaddresstwo,peregian beach,2283,qld,4830898
+60,*,36-40,White,*,*,North America,*,Other,<=50K,riley,summers,14,warren place,noaddresstwo,withers,6102,nsw,1709631
+644,*,36-40,White,*,*,North America,*,Other,<=50K,connor,todd,55,zwar place,noaddresstwo,south melbourne,6056,nsw,6389218
+123,*,36-40,White,*,*,North America,*,Other,<=50K,timmh,padeg,500,arthur circle,noaddresstwo,ayr,2190,nsw,4319909
+152,*,36-40,White,*,*,North America,*,Other,<=50K,bailey,gustini,50,wrixon street,noaddresstwo,serviceton,6415,nsw,1013899
+507,*,36-40,White,*,*,North America,*,Other,<=50K,amy,midgley,1,narrabundah lane,wongabinda,highfields,3912,wa,4498957
+778,*,37,White,*,*,*,*,*,>50K,eru,newson,208,nambir dourt,noaddresstwo,alexandria,2602,vic,7801219
+627,*,37,White,*,*,*,*,*,>50K,thomoas,hess,40,street guifoyle,noaddresstwo,randwickk,2795,qld,2929293
+528,*,37,White,*,*,*,*,*,>50K,micael,maiolo,5,rulesrfeet,mater professional centre,queenhyan,2148,nsw,2900351
+275,*,37,White,*,*,*,*,*,<=50K,laura,bushell,15,northbourne avenue,air force memorial est,port pirie,2038,nsw,6662643
+189,*,37,White,*,*,*,*,*,<=50K,toby,cooper,9,mcdowall place,noaddresstwo,holder,2780,nsw,9648713
+430,*,37,White,*,*,*,*,*,<=50K,daniella,boevink,4,boothby place,bellorama hostel,newrybar,3126,qsg,4378316
+200,*,37,*,*,*,*,Non-Government,*,>50K,alexander,krutli,87,bissenberger crescent,noaddresstwo,evans head,6168,nsw,3708181
+10,*,37,*,*,*,*,Non-Government,*,>50K,courtney,oharris,86,reveley ceescent,noaddresstwo,north narrabeen,2120,nostate,2073567
+245,*,37,*,*,*,*,Non-Government,*,>50K,jack,fowles,1,yandaaoret,noaddresstwo,woolowzare,3074,vic,2368535
+84,*,37,*,*,*,*,Non-Government,*,<=50K,alexandra,jones,41,musgrave street,noaddresstwo,cambooya,3127,vic,7898167
+89,*,37,*,*,*,*,Non-Government,*,>50K,april,taasfm,38,coninghzjpstreet,warra warra,moulamein,2380,nsw,4829233
+699,*,37,*,*,*,*,Non-Government,*,<=50K,monique,mignanelli,222,monkman street,noaddresstwo,maryborough,0nan,vic,9121860
+5,*,37,White,*,*,North America,*,*,<=50K,georgia,newman,11,coppins crossing road,great heart,brunswick,2191,vic,9165285
+196,*,37,White,*,*,North America,*,*,>50K,benjamin,mcguirk,1,elsey street,noaddresstwo,claymnre,4504,nsw,7644781
+480,*,37,White,*,*,North America,*,*,>50K,evan,wheeler,44,lambrigg street,noaddresstwo,northwood,3630,wa,6839850
+713,*,37,White,*,*,North America,*,*,>50K,ryzs,ryan,10,glover street,noaddresstwo,eppng,3145,nww,9742536
+171,*,37,White,*,*,North America,*,*,>50K,nogivenname,wehr,130,hannaford street,bolden hill,kelmscott,3071,qld,8920203
+711,*,37,White,*,*,North America,*,*,<=50K,lian,evans,94,maranboylstreet,noaddresstwo,praraj,3181,tas,5684306
+317,Male,38,White,*,*,United-States,*,*,>50K,thomas,rachinskaia,216,carruthers street,noaddresstwo,abbotsford,2228,qld,6533714
+102,Male,38,White,*,*,United-States,*,*,>50K,meagan,chambers,19,tregear close,three sisters,killingworth,2010,nsw,4992673
+17,Male,38,White,*,*,United-States,*,*,<=50K,alessqjdria,lawson,33,beaumont close,bundarra,winston hills,3284,qlwd,9152315
+277,Male,38,White,*,*,United-States,*,*,<=50K,pakita,lange,8,aspinall street,vevey,bayview heights,3171,vic,9056453
+577,Male,38,White,*,*,United-States,*,*,<=50K,jessie,crosskkng,28,mccormacknptreet,noaddresstwo,warnrd bay,3028,qld,3276903
+328,Male,38,White,*,*,United-States,*,*,>50K,aidan,bailey,3,britten-jones drive,noaddresstwo,warrandyte,3500,nsw,6964950
+221,Male,38,*,*,*,*,*,Nontechnical,>50K,natalia,burford,73,antis street,noaddresstwo,carina,6169,wa,7273280
+423,Male,38,*,*,*,*,*,Nontechnical,<=50K,bailey,brown,37,glenelg street,noaddresstwo,griffith,4702,wa,5045223
+432,Male,38,*,*,*,*,*,Nontechnical,<=50K,lachlan,evans,2,seymour place,noaddresstwo,girraween,4020,qld,2625042
+226,Male,38,*,*,*,*,*,Nontechnical,<=50K,lucas,amelie,39,glossop crescent,noaddresstwo,bethania,5429,vic,8959925
+2,Male,38,*,*,*,*,*,Nontechnical,<=50K,paul,fisher,2,newland street,austral building,belmore,3150,vic,7413233
+202,Male,38,*,*,*,*,*,Nontechnical,<=50K,liam,egan,0,lewin street,noaddresstwo,theodore,6149,nsw,3636520
+477,Male,38,White,Married-civ-spouse,*,*,*,Nontechnical,>50K,tynan,macklin,14,crossley close,raafa estate,walkerston,3163,nostate,9937057
+122,Male,38,White,Married-civ-spouse,*,*,*,Nontechnical,<=50K,gabrielle,vawser,25,ennor crescent,belvoria,carlingford,2035,sa,9153277
+485,Male,38,White,Married-civ-spouse,*,*,*,Nontechnical,<=50K,alivia,choo,27,ashburton circuit,noaddresstwo,annerley,2444,qld,7816247
+125,Male,38,White,Married-civ-spouse,*,*,*,Nontechnical,>50K,zali,baker,22,dunrossil drive,noaddresstwo,bondi,3199,nsw,8624529
+352,Male,38,White,Married-civ-spouse,*,*,*,Nontechnical,<=50K,nogivenname,green,6,ayers tsfeet,noaddresstwo,oakeigh,0835,vic,5383341
+451,Male,38,White,Married-civ-spouse,*,*,*,Nontechnical,>50K,amy,keane,71,salvado place,noaddresstwo,petersham,2259,wa,3432087
+602,*,36-40,*,*,*,United-States,*,Nontechnical,<=50K,tahoia,dewar,12,noaddressone,noaddresstwo,morapfield,3201,nws,5714943
+26,*,36-40,*,*,*,United-States,*,Nontechnical,<=50K,coody,denxi,4866,callaway crescent,noaddresstwo,campsie,5072,nsw,6036205
+297,*,36-40,*,*,*,United-States,*,Nontechnical,<=50K,isabella,green,76,nanda place,shiralee,blacktown,3171,vic,3443277
+176,*,36-40,*,*,*,United-States,*,Nontechnical,<=50K,rory,dunk,60,darcy close,noaddresstwo,chatswood,2617,nsw,8648208
+694,*,36-40,*,*,*,United-States,*,Nontechnical,<=50K,amy,spangaro,19,meredith circuit,noaddresstwo,planland,3121,qld,6646283
+342,*,36-40,*,*,*,United-States,*,Nontechnical,<=50K,ellouise,lindquist,75,coverdale street,mt mitchell estate,cecil plains,4103,qld,7623309
+153,*,39,White,*,*,United-States,*,*,<=50K,marlee,baraglia,20,hurtle avenue,noaddresstwo,hahndorf,2765,nsw,8170820
+779,*,39,White,*,*,United-States,*,*,<=50K,angus,flach,22,gordon ofose,silver shores,smitgtwn,2290,tas,6031674
+119,*,39,White,*,*,United-States,*,*,<=50K,lyfaa,eastoood,61,castlereagh crescent,noaddresstwo,bridgewater,3112,nsw,4684366
+760,*,39,White,*,*,United-States,*,*,<=50K,caitlin,maje,7,noaddressone,noaddresstwo,caloundra,4214,nostate,4806641
+565,*,39,White,*,*,United-States,*,*,<=50K,stephanie,creighton,17,badenoch crescent,noaddresstwo,shailer park,3161,sa,8054245
+0,*,39,White,*,*,United-States,*,*,<=50K,riley,barlovic,53,ashley drive,noaddresstwo,kallangur,6743,wa,1782872
+170,*,36-40,White,*,Higher education,North America,*,*,>50K,shelby,namocatcat,51,hurtle avenue,noaddresstwo,greensborough,3102,vic,8039879
+19,*,36-40,White,*,Higher education,North America,*,*,>50K,nathan,simons,209,dooring street,raafa estate,woree,2777,nsw,8997209
+223,*,36-40,White,*,Higher education,North America,*,*,>50K,riley,morga,31,l tanjvoop,noaddresstwo,galston,2000,psw,5236060
+400,*,36-40,White,*,Higher education,North America,*,*,<=50K,william,moroney,29,mcelhone court,noaddresstwo,balmazin,2170,qdc,7811097
+492,*,36-40,White,*,Higher education,North America,*,*,<=50K,beth,cavan agh,15,fawknerreet,noaddresstwo,loworod,3936,qld,7237212
+470,*,36-40,White,*,Higher education,North America,*,*,<=50K,hayden,symons,1,stanbury close,noaddresstwo,berkeley,4017,sa,4440239
+183,*,40,White,*,Higher education,United-States,*,*,>50K,david,maynard,7,dalyell street,casuarina village,underwood,2101,nsw,4657974
+720,*,40,White,*,Higher education,United-States,*,*,>50K,michael,sugcecn,6,temperley street,noaddresstwo,denitone,5054,nsw,4520288
+112,*,40,White,*,Higher education,United-States,*,*,<=50K,talan,kerr,1,warrai place,dragon rising,ferny grfe,4115,nsw,9087683
+345,*,40,White,*,Higher education,United-States,*,*,>50K,nogivenname,oharris,4,reveley crescent,noaddresstwo,north naerabeen,2120,nsw,2073567
+330,*,40,White,*,Higher education,United-States,*,*,>50K,rhett,cutting,14,carina street,noaddresstwo,austins ferry,3148,wa,9562128
+219,*,40,White,*,Higher education,United-States,*,*,<=50K,ella,flamminio,3,hale crescent,noaddresstwo,burrier,4680,vicg,1543766
+421,*,40,*,*,*,North America,*,*,>50K,jake,easther,67,hicks street,wallamurra,darling point,3006,qld,5058141
+229,*,40,*,*,*,North America,*,*,>50K,hugo,gladigau,140,cutbush street,noaddresstwo,junee,2041,act,1892657
+656,*,40,*,*,*,North America,*,*,<=50K,marianne,wallis,105,forbes street,bellmahar,glen iris,6069,qld,5435818
+722,*,40,*,*,*,North America,*,*,>50K,luksm,yeune,2,noaddressone,noaddresstwo,blayney,2295,vic,4283437
+777,*,40,*,*,*,North America,*,*,<=50K,nogivenname,wright,19,helen mayo crescent,pioneer south complex,caringbah,3152,qld,1087710
+650,*,40,*,*,*,North America,*,*,<=50K,jacqueline,moreth,18,blamey crescent,the laurels,kilmore,2317,nsw,4694619
+664,*,*,White,*,*,United-States,Non-Government,*,<=50K,xavier,mcdermid,52,crescent nprthcote,noaddresstwo,dullwich hill,6010,tax,5712364
+265,*,*,White,*,*,United-States,Non-Government,*,>50K,maconal,mativ,5485,carrodus street,noaddresstwo,bankstlown,2287,nsue,2910601
+768,*,*,White,*,*,United-States,Non-Government,*,>50K,ethqn,macnlin,13,gardiner xtreet,noaddresstwo,wattlehglen,2358,qld,1043507
+727,*,*,White,*,*,United-States,Non-Government,*,<=50K,chkoe,hunter,49,castorplace,noaddresstwo,marino,2050,nsw,9860334
+70,*,*,White,*,*,United-States,Non-Government,*,<=50K,louise,richardson,5,challinor crescent,rocky top,cranbrook,2131,nsw,3333599
+452,*,*,White,*,*,United-States,Non-Government,*,<=50K,katlyn,trezlsm,1,demaine crescent,noaddresstwo,hoppers crossing,3803,wa,8587236
+633,*,41,*,*,*,North America,*,*,<=50K,hayden,evwrden,1,macgregor street,noaddresstwo,nosuburb,2184,qld,2209391
+376,*,41,*,*,*,North America,*,*,>50K,eklza,berry,7,chataway crescent,vale ciew,aspleh,2145,nostate,6271698
+178,*,41,*,*,*,North America,*,*,<=50K,lauren,traill,916,serra place,noaddresstwo,glengowrie,3214,qld,2142268
+180,*,41,*,*,*,North America,*,*,<=50K,sophoe,cllzw,7286,melba street,noaddresstwo,marrickville,6450,qld,9521661
+54,*,41,*,*,*,North America,*,*,<=50K,mya,wilson,1,guthridge crescent,raafa estate,myall,5035,qld,1895781
+224,*,41,*,*,*,North America,*,*,<=50K,wilson,abbott,7,phillip avenue,noaddresstwo,baldivis,4706,nsw,2906857
+490,*,41,*,*,Higher education,United-States,*,*,>50K,natalia,coombs,54,hare place,noaddresstwo,meadowbank,3803,wa,6950413
+173,*,41,*,*,Higher education,United-States,*,*,<=50K,joshua,carnezsi,0,bindel street,noaddresstwo,aberdeedbn,3140,wn,2952963
+721,*,41,*,*,Higher education,United-States,*,*,<=50K,nogivenname,decozno,38,cataractctreet,noaddresstwo,wallslend,6150,vic,4392270
+45,*,41,*,*,Higher education,United-States,*,*,<=50K,ka,climws,8,heagney oescent,lapstone,queanbuyan,7900,nsw,5585835
+749,*,41,*,*,Higher education,United-States,*,*,<=50K,holly,stevenson,6,slessor crescent,noaddresstwo,mossy point,2228,wa,9682836
+230,*,41,*,*,Higher education,United-States,*,*,>50K,georgia,karakoussis,800,haystack crescent,noaddresstwo,rushcutters bay,3079,qld,2511011
+380,*,41,*,*,Higher education,United-States,*,*,<=50K,matilda,millf dr,25,gundulu place,noaddresstwo,oyme,6006,vic,8433790
+220,*,41,*,*,*,*,Non-Government,*,>50K,riley,barnes,31,kitchener street,noaddresstwo,ainslie,7140,wa,1791949
+447,*,41,*,*,*,*,Non-Government,*,<=50K,hannpah,fishock,19,casey crescent,noaddresstwo,sussex inlet,2905,nostate,1198385
+306,*,41,*,*,*,*,Non-Government,*,<=50K,shelbey,walker,9,ulva place,noaddresstwo,kingston,3031,vic,2046869
+214,*,41,*,*,*,*,Non-Government,*,<=50K,casey,roe,45,kitchener street,noaddresstwo,edens landing,4068,qld,6374022
+457,*,41,*,*,*,*,Non-Government,*,<=50K,taljiah,mcmurdko,9,trailleplace,noaddresstwo,riverton,2151,ss,5857953
+287,*,41,*,*,*,*,Non-Government,*,>50K,michael,elwell,11,carnegie crescent,raafa estate,homebush,3000,qld,2037669
+483,*,42,White,Married-civ-spouse,Higher education,United-States,*,*,>50K,hanja,manyl,57,wheeler crescent,noaddresstwo,fremantle,2528,qld,1500761
+667,*,42,White,Married-civ-spouse,Higher education,United-States,*,*,>50K,esme,alcock,11,jacka crescent,noaddresstwo,stirling,2138,nostate,3707953
+9,*,42,White,Married-civ-spouse,Higher education,United-States,*,*,>50K,peter,allen,46,corlette crescent,homeleigh,kenmore,6281,nsw,7646446
+685,*,42,White,Married-civ-spouse,Higher education,United-States,*,*,>50K,madeline,de bona,1,noaddressone,noaddresstwo,belrose,2203,sa,9191614
+58,*,42,White,Married-civ-spouse,Higher education,United-States,*,*,>50K,lucy,mccombes,13,williamson street,noaddresstwo,wooloowin,6062,nostate,4062264
+637,*,42,White,Married-civ-spouse,Higher education,United-States,*,*,<=50K,delqnwy,luv,0,willcock place,noaddresstwo,salisbury downs,2223,vic,4859882
+260,*,42,*,*,*,United-States,*,*,>50K,matthew,doukegas,31,hodgsoncurescent,noaddresstwo,brighton north,5290,nsw,2302855
+188,*,42,*,*,*,United-States,*,*,<=50K,emiily,gillqs,21,ashby circuit,noaddresstwo,scojesby,3099,nostate,3787884
+547,*,42,*,*,*,United-States,*,*,>50K,jessica,allnutt,1,brady place,belrivere,nosuburb,3048,wa,6091390
+679,*,42,*,*,*,United-States,*,*,>50K,jack,rakovic,17,mirrabucca crescent,noaddresstwo,port macquarie,2042,nsw,9301174
+553,*,42,*,*,*,United-States,*,*,<=50K,joshua,aylett,133,monfries place,noaddresstwo,miranda,2877,vic,3732533
+147,*,42,*,*,*,United-States,*,*,<=50K,cooper,young,49,knox street,kymrock,marmion,2280,nostate,6840803
+615,*,42,*,*,*,*,Non-Government,*,>50K,jaykob,lowrey,144,erldunda circuit,noaddresstwo,grenfell,4123,nsw,6693986
+100,*,42,*,*,*,*,Non-Government,*,<=50K,samur,o'neill,36,hansen ircuit,noaddresstwo,sevenshills,5112,vic,9775092
+331,*,42,*,*,*,*,Non-Government,*,<=50K,lachlao,biktoqn,24,armfieldnplace,noaddresstwo,mountbaeker,7428,vic,6696853
+231,*,42,*,*,*,*,Non-Government,*,<=50K,jake,browning,30,bundey street,noaddresstwo,sanctuary point,5041,qld,7583311
+723,*,42,*,*,*,*,Non-Government,*,<=50K,jed,ellis,50,barrett street,bushlands,brighton,3936,nsw,1437363
+235,*,42,*,*,*,*,Non-Government,*,>50K,connor,mckinlay,1012,bindel street,ralphs,hamersley,2090,nostate,7042153
+682,*,41-45,White,*,Higher education,United-States,*,*,>50K,kyl,mccarthy,16,woolls street,noaddresstwo,fernvale,3998,nsw,4801887
+335,*,41-45,White,*,Higher education,United-States,*,*,<=50K,emiily,torrents,12,stevenson street,noaddresstwo,forestville,3128,vic,4676198
+735,*,41-45,White,*,Higher education,United-States,*,*,<=50K,finley,hammond,75,lumholtz place,noaddresstwo,north melbourne,2250,nostate,6544990
+298,*,41-45,White,*,Higher education,United-States,*,*,<=50K,hannah,fishlock,19,casey crescent,noaddresstwo,sussex inlet,2905,nostate,1198385
+613,*,41-45,White,*,Higher education,United-States,*,*,>50K,oligrr,clarke,69,university avenue,noaddresstwo,dicison,6010,nsw,7104805
+407,*,41-45,White,*,Higher education,United-States,*,*,<=50K,coby,newham,105,wybalena grove,noaddresstwo,cashmere,4113,vic,5418128
+745,Male,43,*,*,*,United-States,*,Nontechnical,<=50K,natalee,powleel,667,brooklands road,glengarry,alexandy aills,3075,wa,7659258
+468,Male,43,*,*,*,United-States,*,Nontechnical,<=50K,callum,turner,8,murranji street,banyandah,geraldton,3148,nostate,4049191
+22,Male,43,*,*,*,United-States,*,Nontechnical,<=50K,isabella,ward,1,monkman street,noaddresstwo,footsrcay,2413,qlr,3914524
+611,Male,43,*,*,*,United-States,*,Nontechnical,<=50K,thomas,brooker,31,carnegie crescent,noaddresstwo,wunghnu,3409,vic,3164880
+254,Male,43,*,*,*,United-States,*,Nontechnical,<=50K,sascha,agerbeek,16,southern cross drive,tarragal glen,dingley village,6017,qld,2751182
+321,Male,43,*,*,*,United-States,*,Nontechnical,<=50K,hugo,richardson,17,ngunawal drive,noaddresstwo,closeburn,3143,vic,3684465
+336,Male,43,White,*,*,United-States,Non-Government,Nontechnical,>50K,havey,shields,1,thornhil lxtescent,noaddresstwo,newport,4212,qod,5093832
+521,Male,43,White,*,*,United-States,Non-Government,Nontechnical,<=50K,andrew,wilkin,16,burkitt street,noaddresstwo,west end,4650,nsw,7034747
+582,Male,43,White,*,*,United-States,Non-Government,Nontechnical,>50K,april,hill,1397,clode crescent,noaddresstwo,frankston south,2328,qld,8629833
+445,Male,43,White,*,*,United-States,Non-Government,Nontechnical,<=50K,jay,standley,1,randell street,noaddresstwo,coonabarabran,2026,sa,8478118
+607,Male,43,White,*,*,United-States,Non-Government,Nontechnical,>50K,grezg,matthhw,33,arkamatteet,noaddresstwo,gloucester,4034,nostate,3808028
+717,Male,43,White,*,*,United-States,Non-Government,Nontechnical,>50K,rohum,parnell,15,wirraway crescent,noaddresstwo,marrickville,5292,qld,9999752
+18,*,43,White,*,Higher education,United-States,*,*,>50K,lumas,atkinxow,82,noaddressone,noaddresstwo,willettvmn,4413,wr,8292842
+82,*,43,White,*,Higher education,United-States,*,*,>50K,charlie,mcculloch,34,noaddressone,noaddresstwo,nosuburb,3757,vic,7260600
+677,*,43,White,*,Higher education,United-States,*,*,<=50K,cooper,barreau,30,shackleton circuit,grandview,burnside,3934,vic,7077778
+776,*,43,White,*,Higher education,United-States,*,*,<=50K,cooo,corob,18,kitchener street,noaddresstwo,terranora,4645,vic,4043376
+51,*,43,White,*,Higher education,United-States,*,*,>50K,isobel,ashley,12,eales place,noaddresstwo,blackwall,2567,nsw,7158507
+283,*,43,White,*,Higher education,United-States,*,*,<=50K,elki,piscioneri,25,purnell place,noaddresstwo,niddrie,3337,nostate,3861190
+168,*,43,White,*,Higher education,United-States,*,*,<=50K,brianna,strqtuon,0,lunn plcce,hillvie,chermside,3338,qld,5187969
+734,*,41-45,*,*,*,*,Non-Government,*,>50K,andrew,tubb,21,unaipon avenue,taradale,brighton,6105,sa,5403196
+414,*,41-45,*,*,*,*,Non-Government,*,<=50K,ryan,beltrame,43,sherbrolkeastreet,noaddresstwo,mountgam bier,3880,vif,6596851
+126,*,41-45,*,*,*,*,Non-Government,*,<=50K,kyle,atityavongse,32,wilkins street,noaddresstwo,thornton,2612,nsw,6207512
+303,*,41-45,*,*,*,*,Non-Government,*,>50K,juljana,langw,25,callaway crsecent,noaddresstwo,bendigo,5154,nostate,9757543
+420,*,41-45,*,*,*,*,Non-Government,*,>50K,hnch,abbott,92,stieglitkcz circuit,noaddresstwo,padstown,2040,nt,2748484
+761,*,41-45,*,*,*,*,Non-Government,*,<=50K,joel,ward,12,bridge street,noaddresstwo,howrah,3042,nscv,4959591
+167,*,44,*,*,*,North America,*,Nontechnical,>50K,abbey,bourke,21,ulverstone street,noaddresstwo,adelaide,4221,nostate,5482642
+195,*,44,*,*,*,North America,*,Nontechnical,<=50K,gus,nolan,50,kitchener street,wyalla plaza,pelaw main,3226,nsw,6984862
+255,*,44,*,*,*,North America,*,Nontechnical,>50K,frasdr,fitzgerald,28,noaddressone,noaddresstwo,st kildavbeast,6056,nad,9475014
+487,*,44,*,*,*,North America,*,Nontechnical,<=50K,alana,steele,5,chillagjwxtpreet,noaddresstwo,beaudesert,2460,qld,3198358
+411,*,44,*,*,*,North America,*,Nontechnical,>50K,phowbe,dellafoftuna,1,durack street,flt 18,flinders view,4740,nostate,9993892
+608,*,44,*,*,*,North America,*,Nontechnical,>50K,lachkna,evans,7,seymour place,noaddresstwo,girraween,4002,qld,2625092
+496,*,44,White,*,*,United-States,Non-Government,Other,<=50K,lily,lalara,0,mcgrowdie place,pelican park,dingley village,4610,qld,5513380
+606,*,44,White,*,*,United-States,Non-Government,Other,<=50K,kate,gower,14,gormanston crescent,fifeshire,nosuburb,3724,qld,3681097
+77,*,44,White,*,*,United-States,Non-Government,Other,>50K,mikaela,raadts,64,jerrabomberra avenue,noaddresstwo,loganlea,2902,nsw,3222010
+486,*,44,White,*,*,United-States,Non-Government,Other,<=50K,willoams,toru,88,caffyjplace,noaddresstwo,woodvxille,4059,vic,7977309
+367,*,44,White,*,*,United-States,Non-Government,Other,<=50K,callum,prendermogast,133,wolstenholme street,noaddresstwo,darlinwhurst,4007,sa,4625569
+360,*,44,White,*,*,United-States,Non-Government,Other,>50K,aysrm,scqrr,298,rohan rivett crescent,noaddresstwo,bonui,3352,qld,1289359
+44,*,44,*,*,*,United-States,Non-Government,Nontechnical,<=50K,isabelle,cobley,5,o'sullivan street,noaddresstwo,prevelly,7315,qld,6161501
+649,*,44,*,*,*,United-States,Non-Government,Nontechnical,>50K,ella,harris,73,mirning crescent,noaddresstwo,rosebud,2749,vic,5097919
+93,*,44,*,*,*,United-States,Non-Government,Nontechnical,>50K,mitchell,risson,7,wise street,noaddresstwo,mount louisa,2423,sa,9564305
+149,*,44,*,*,*,United-States,Non-Government,Nontechnical,<=50K,lauren,salt,156,downward place,noaddresstwo,thagoona,2350,nsw,7941033
+347,*,44,*,*,*,United-States,Non-Government,Nontechnical,<=50K,kane,heald,47,clive steele avenue,noaddresstwo,bermagui,2207,qld,8712013
+668,*,44,*,*,*,United-States,Non-Government,Nontechnical,<=50K,keeley,chalmers,0,jardine street,noaddresstwo,booragul,3150,azd,5764720
+30,*,41-45,*,*,*,United-States,*,*,<=50K,connor,oates,36,noaddressone,noaddresstwo,benowa,2010,nsw,9992707
+346,*,41-45,*,*,*,United-States,*,*,<=50K,katlyn,gill,2,caffyn place,t & g bldg,bateasfbay,3156,vic,5112350
+481,*,41-45,*,*,*,United-States,*,*,>50K,nicoja,buesuc,21,werribeecrescent,noaddresstwo,nosuburb,3163,qlr,1170555
+450,*,41-45,*,*,*,United-States,*,*,<=50K,caifkin,lyoms,116,drevermann street,heathervale,busby,4132,nsw,6986487
+425,*,41-45,*,*,*,United-States,*,*,<=50K,olivia,maughan,10,unaipon avenue,noaddresstwo,moorabbin,2560,sa,8622507
+315,*,41-45,*,*,*,United-States,*,*,<=50K,joshua,nosurname,6,plve gye,lesailceen,lavingthon,2430,vic,1146205
+133,*,45,*,*,*,North America,Non-Government,*,>50K,charlotte,rasmus,55,earle place,noaddresstwo,deniliquin,3465,vic,5147784
+368,*,45,*,*,*,North America,Non-Government,*,<=50K,jackdon,mcclurg,640,nelsonuplace,noaddresstwo,marooczydore,3793,qld,1267250
+241,*,45,*,*,*,North America,Non-Government,*,<=50K,kyle,monteith,3,currong street,noaddresstwo,devonport,4520,nsw,3330897
+651,*,45,*,*,*,North America,Non-Government,*,<=50K,ethan,kirkham,31,jalanga crescent,noaddresstwo,campsie,2041,nostate,6928078
+151,*,45,*,*,*,North America,Non-Government,*,>50K,jordan,tereshun,40,hurley street,noaddresstwo,woodridge,2453,nostate,1608601
+522,*,45,*,*,*,North America,Non-Government,*,<=50K,hannah,liberts,29,james smith circuit,noaddresstwo,epping,2064,vic,1991222
+238,*,45,*,*,*,United-States,*,*,<=50K,shona,grant,43,noaddressone,air force estate,largs bay,5024,wa,4595489
+418,*,45,*,*,*,United-States,*,*,>50K,mitchell,olden,46,bruce place,noaddresstwo,boort,3342,vic,6878592
+632,*,45,*,*,*,United-States,*,*,<=50K,george,boess,7,burnell place,noaddresstwo,cleve,4215,qld,5716381
+203,*,45,*,*,*,United-States,*,*,<=50K,kylw,hawkinss,118,noaddressone,noaddresstwo,greenshofough,5259,nostate,9860417
+409,*,45,*,*,*,United-States,*,*,<=50K,talia,katis,16,black street,noaddresstwo,jannali,7330,qld,9141265
+571,*,45,*,*,*,United-States,*,*,<=50K,madeline,mccann,37,osburn drive,noaddresstwo,templestowe,6107,vic,9433568
+351,*,46,White,*,*,United-States,*,*,<=50K,william,williams,1,clive steele avenue,bimbimbie retrmnt vlge,mount riverview,2571,nostate,9037365
+506,*,46,White,*,*,United-States,*,*,<=50K,alexander,nichils,51,john cleladscrescent,noaddresstwo,singleton heights,2010,nzl,1606870
+439,*,46,White,*,*,United-States,*,*,<=50K,hanna,williams,22,mcneil place,noaddresstwo,brighton east,3156,nsw,9172253
+569,*,46,White,*,*,United-States,*,*,>50K,teaha,mywf,7,place dralia,noaddresstwo,culgoa,4051,nsw,3241574
+698,*,46,White,*,*,United-States,*,*,>50K,alisa,berkeley,351,chandler street,hedley cottage,banho,2630,ns,1135782
+75,*,46,White,*,*,United-States,*,*,<=50K,stephanie,jones,3,lynch street,noaddresstwo,padstow,6020,nsw,2627839
+154,*,46,White,*,*,United-States,*,*,<=50K,mikayla,smith,1727,desailly crescent,noaddresstwo,jolimont,7010,nsw,1340621
+383,*,46,White,*,*,United-States,*,Nontechnical,>50K,natalee,grainger,11,montefiore crescent,noaddresstwo,comet,3150,nsw,5377913
+354,*,46,White,*,*,United-States,*,Nontechnical,<=50K,mollie,smith,5,wylly place,mango park,lavington,6076,wa,3289044
+378,*,46,White,*,*,United-States,*,Nontechnical,<=50K,courntey,fitzjohn,63,jerrabombertavenue,noaddresstwo,moi,5355,nsw,8236809
+365,*,46,White,*,*,United-States,*,Nontechnical,<=50K,dylan,hindrup,60,kinleyside crescent,kooringal,crows nest,3226,vic,5339394
+689,*,46,White,*,*,United-States,*,Nontechnical,<=50K,alana,stexke,1,chillagoe street,noaddresstwo,beaudnesert,4259,qld,3198358
+356,*,46,White,*,*,United-States,*,Nontechnical,<=50K,liam,hodgkinson,4,dyett circuit,noaddresstwo,neutral bay,3033,nostate,4262796
+327,*,46,*,*,*,North America,*,Other,<=50K,noah,donovan,2,clift crescent,francesdale,geelong west,2535,sa,3681643
+52,*,46,*,*,*,North America,*,Other,<=50K,bella,harvey,8,drevermann street,elrancho,nelia gaali,4655,vic,2051153
+648,*,46,*,*,*,North America,*,Other,>50K,melinda,flett,3,clifford crescent,boonal,salisbury north,2198,wa,3451026
+733,*,46,*,*,*,North America,*,Other,>50K,aikaterina,o'sullivan,4,winnecke street,noaddresstwo,belmont,4220,wa,8248981
+124,*,46,*,*,*,North America,*,Other,<=50K,lily,romer,16,adey place,noaddresstwo,camden,6281,nsw,7641173
+453,*,46,*,*,*,North America,*,Other,<=50K,chelsie,moore,6,dowling street,noaddresstwo,birmingham gardens,2428,sa,3565783
+524,*,46-50,White,*,Higher education,North America,*,*,<=50K,imogen,bryant,4,burkitt street,noaddresstwo,coffin bay,3122,vic,9552798
+285,*,46-50,White,*,Higher education,North America,*,*,<=50K,jack,cox,15,allchin circuit,noaddresstwo,roselands,6153,nsw,7687365
+94,*,46-50,White,*,Higher education,North America,*,*,<=50K,nogivenname,brooksby,261,william hudson crescent,noaddresstwo,thorpdale,3181,qld,9966061
+179,*,46-50,White,*,Higher education,North America,*,*,<=50K,zachary,whitten-trunz,70,hodgkinson street,horse gap,keiraville,2256,nsw,5311675
+708,*,46-50,White,*,Higher education,North America,*,*,<=50K,grace,watson,28,tyson street,noaddresstwo,peppermint grove,2223,qld,7037791
+139,*,46-50,White,*,Higher education,North America,*,*,<=50K,joel,bain,570,bennwtt freda circuit,noaddresstwo,stanthrpe,3067,voc,7280984
+752,*,47,*,*,*,North America,*,Other,>50K,danoel,rarcqay,0,bamir square,noaddresstwo,buninyong,2043,nostate,6643070
+588,*,47,*,*,*,North America,*,Other,<=50K,emiily,calliss,150,parrabel place,noaddresstwo,hackham west,2251,nostate,9029115
+48,*,47,*,*,*,North America,*,Other,>50K,takarh,murtqgh,332,rosenthal street,brooklyn,sefton,3138,vn,5779947
+469,*,47,*,*,*,North America,*,Other,<=50K,eod,birch-nagrston,1,rowntree crescent,noaddresstwo,bonyato,3198,nostate,9563536
+308,*,47,*,*,*,North America,*,Other,<=50K,lucas,jacobs,2,weddin circuit,noaddresstwo,cairns,7018,qld,8853263
+580,*,47,*,*,*,North America,*,Other,<=50K,natalia,walfdh,3,goldfinchw circuit,rowethorpe court units,kinsford,3525,nostate,1989484
+116,*,47,White,*,*,*,*,*,>50K,ygo,redman,4,waller x escent,bellingham estate,pacific paradise,0812,qld,4784422
+50,*,47,White,*,*,*,*,*,<=50K,lucas,leach,6,strong place,noaddresstwo,reservoir,2060,vic,2097906
+399,*,47,White,*,*,*,*,*,<=50K,melissa,breed,178,wilshire street,noaddresstwo,bundoora,3226,qld,1168840
+517,*,47,White,*,*,*,*,*,>50K,abyd,bourke,8,ulverstonel street,noaddresstwo,adelaide,4221,nostate,5482642
+574,*,47,White,*,*,*,*,*,<=50K,reegan,kapon,6,redcliffe street,japhannah park,monterey,6149,vic,9838827
+748,*,47,White,*,*,*,*,*,<=50K,aidan,duff,126,jensen street,glenlee,dubbo,5097,qld,9234717
+617,*,48,White,*,Higher education,*,*,*,<=50K,michael,barrett,26,william wilkins crescent,noaddresstwo,robina,3158,nsw,4618975
+90,*,48,White,*,Higher education,*,*,*,<=50K,samuel,neumann,28,mindarie street,noaddresstwo,corio,5072,nsw,4985032
+57,*,48,White,*,Higher education,*,*,*,<=50K,beth,rathman,81,langdon avenue,noaddresstwo,nosuburb,3048,sa,9487105
+143,*,48,White,*,Higher education,*,*,*,<=50K,thomas,low,117,moruya circuit,noaddresstwo,brighton,3033,nsw,2957080
+88,*,48,White,*,Higher education,*,*,*,>50K,thomas,gauci,10,nuyts street,minbalup,box hill south,3003,vu,5019745
+36,*,48,White,*,Higher education,*,*,*,<=50K,jack,mccrzigt,29,boldrewood street,figtree gardems caravn park,west pencqtn hills,4828,qld,7454496
+63,*,46-50,*,*,*,North America,Non-Government,*,>50K,jessica,avery,42,bendigo street,quartpot,currajong,4216,nsw,3335868
+33,*,46-50,*,*,*,North America,Non-Government,*,<=50K,liam,rogers,12,jansz crescent,noaddresstwo,rochester,4565,sa,8445557
+726,*,46-50,*,*,*,North America,Non-Government,*,>50K,thomas,steinke,47,anemone,range view,lennox head,3936,nostate,5550141
+555,*,46-50,*,*,*,North America,Non-Government,*,<=50K,katelin,bqyr,98,kerrisanzstreet,arcanum fold,brunswpivk west,6058,nostate,6955994
+753,*,46-50,*,*,*,North America,Non-Government,*,<=50K,annabel,traeger,52,temperley street,mallawa court,lammermoor beach,0nan,nsw,3865172
+278,*,46-50,*,*,*,North America,Non-Government,*,>50K,fergus,johnson,21,melrose drive,somerset,st kilda,7249,qld,1607622
+108,*,49,*,*,*,North America,*,*,>50K,mikayla,woodbridge,2,fawkner street,brillig,monto,7109,vinc,6123657
+27,*,49,*,*,*,North America,*,*,<=50K,sophke,cloam,77,melba tsreet,noaddresstwo,marrickville,6350,qld,9521136
+129,*,49,*,*,*,North America,*,*,>50K,xepheren,makarenko,4,serpentine street,noaddresstwo,croydon north,3178,nsw,4298677
+549,*,49,*,*,*,North America,*,*,<=50K,karla,jericho,8,dennis street,rp 155232,narara,5113,vic,5564903
+40,*,49,*,*,*,North America,*,*,<=50K,tristan,klassen,0,thermeda place,noaddresstwo,invermay,2730,vic,9441747
+581,*,49,*,*,*,North America,*,*,<=50K,amy,keep,96,grounds crescent,dowan downs,orange,2010,vic,5843915
+6,*,49,*,*,*,North America,*,*,<=50K,erin,newsin,25,nambir court,noaddresstwo,alezawndria,2620,nostate,7801219
+49,Male,46-50,White,*,*,United-States,*,*,>50K,matthew,dkuygla,137,hodgson crescent,noaddresstwo,brighton north,5209,nsw,2302855
+433,Male,46-50,White,*,*,United-States,*,*,>50K,jhpm,coulthard,12,laptz fose,moorlands,morley,5020,tas,6203125
+313,Male,46-50,White,*,*,United-States,*,*,<=50K,harriet,gleadow,14,darmody street,noaddresstwo,bundoora,2218,sa,6804019
+471,Male,46-50,White,*,*,United-States,*,*,<=50K,indiana,smallacombe,98,mcintosh street,noaddresstwo,gympie,7248,qld,2703141
+579,Male,46-50,White,*,*,United-States,*,*,>50K,abbie,feeley,10,kaveneys road,noaddresstwo,rutherford,3078,qld,3335322
+79,Male,46-50,White,*,*,United-States,*,*,>50K,ethal,myles,25,andadobppace,clonalton,eastsdney,2330,sa,6518832
+666,Male,50,White,*,Graduate,United-States,*,*,>50K,riley,morgno,31,tanjil loop,noaddresstwo,galston,2000,nse,5236506
+478,Male,50,White,*,Graduate,United-States,*,*,>50K,charlie,daly,51,box hill avenue,maryville downs,clayton,5062,vic,1505789
+239,Male,50,White,*,Graduate,United-States,*,*,<=50K,thomas,walker,10,fullagarccfscent,noaddresstwo,richardson,4882,act,8081106
+595,Male,50,White,*,Graduate,United-States,*,*,>50K,dylan,herbert,8,wattle street,noaddresstwo,the gap,2766,qld,6004034
+620,Male,50,White,*,Graduate,United-States,*,*,>50K,lewis,rajkovic,2,gurubun close,noaddresstwo,como,2043,nsw,1803632
+251,Male,50,White,*,Graduate,United-States,*,*,<=50K,riley,santasia,79,griffith place,noaddresstwo,wooloowin,3551,sa,5590977
+567,*,50,White,*,*,*,*,*,<=50K,harrison,kelemen,27,roderick street,noaddresstwo,gosnells,2397,sa,2256584
+1,*,50,White,*,*,*,*,*,<=50K,ebony,jones,37,eyre street,noaddresstwo,keilor east,3196,vic,5193779
+268,*,50,White,*,*,*,*,*,<=50K,abbey,gtab,1,blandon place,noaddresstwo,ringwood,4074,nostate,4258662
+201,*,50,White,*,*,*,*,*,<=50K,livia,weetra,110,coppins crossing road,narla,gorokan,5018,vic,2361094
+266,*,50,White,*,*,*,*,*,<=50K,callie,wyllie,419,munro street,anastasia,bomaderry,2768,nostate,2393211
+373,*,50,White,*,*,*,*,*,>50K,jamie,grieger,6,wilshire street,noaddresstwo,dandenong north,4021,nostate,3582388
+187,Male,41-60,*,*,*,United-States,Private,Nontechnical,>50K,ryley,salmon,87,durack sgreet,noaddresstwo,balgowlah,5108,wz,7462233
+415,Male,41-60,*,*,*,United-States,Private,Nontechnical,<=50K,jayden,weekes,17,noaddressone,noaddresstwo,murdunna,3451,sa,9886189
+428,Male,41-60,*,*,*,United-States,Private,Nontechnical,<=50K,huvo,nosurname,17,bromleyxtreet,noaddresstwo,wooree,2090,nostate,5869847
+526,Male,41-60,*,*,*,United-States,Private,Nontechnical,<=50K,aleesha,dwyer,31,picton close,noaddresstwo,richmond,2460,vic,4176262
+704,Male,41-60,*,*,*,United-States,Private,Nontechnical,>50K,alysha,stevens,3,dalrymple street,warringine,o'halloran hill,3199,nsw,8923095
+159,Male,41-60,*,*,*,United-States,Private,Nontechnical,>50K,dante,calvert,40,barton highway,noaddresstwo,leederville,7331,vic,1786092
+370,*,51-55,White,*,Higher education,North America,Non-Government,*,>50K,william,richter,54,jerrabomberra avenue,fields,st lucia,3185,nostate,2836893
+556,*,51-55,White,*,Higher education,North America,Non-Government,*,>50K,jae,nicholos,11,figg place,villa 32 brentwood vlge,caulfieml north,3099,wa,1354000
+560,*,51-55,White,*,Higher education,North America,Non-Government,*,<=50K,madelyn,mckelliff,14,couvreur street,moana,georges hall,2680,vic,7361363
+773,*,51-55,White,*,Higher education,North America,Non-Government,*,>50K,nicholas,ducaine,78,enright crescent,noaddresstwo,riverview,2776,wa,2483223
+519,*,51-55,White,*,Higher education,North America,Non-Government,*,>50K,gregory,farrugia,7,majura avenue,mount tongbong,kuranda,2443,vic,7387958
+74,*,51-55,White,*,Higher education,North America,Non-Government,*,<=50K,lim,stiriulg,2,kirkwood crescent,noaddresstwo,nosuburb,2842,wa,1615883
+7,Male,52,White,Married-civ-spouse,*,North America,Non-Government,*,>50K,alex,egan,36,goodparla street,noaddresstwo,forest hill,7320,sa,7787542
+541,Male,52,White,Married-civ-spouse,*,North America,Non-Government,*,>50K,kody,booth,639,hobler place,elston,elwood,7000,nostate,4384826
+386,Male,52,White,Married-civ-spouse,*,North America,Non-Government,*,<=50K,evan,bertram,5,paul coe crescent,noaddresstwo,tarrington,2000,vic,8718445
+589,Male,52,White,Married-civ-spouse,*,North America,Non-Government,*,>50K,nogivenname,bowkr,0,boolimbaacwrescent,noaddresstwo,croyon,3844,vic,6994804
+568,Male,52,White,Married-civ-spouse,*,North America,Non-Government,*,<=50K,adam,sturzaker,24,bellinger circuit,noaddresstwo,muswellbrook,2194,qld,3840246
+463,Male,52,White,Married-civ-spouse,*,North America,Non-Government,*,<=50K,david,schratel,40,rankineislace,briar cliffe,mossman,2106,vic,3294971
+431,*,51-55,*,*,*,United-States,Non-Government,Other,<=50K,ethan,oyoung,57,freda gibson circuit,noaddresstwo,nimmitabel,4005,qld,9279761
+43,*,51-55,*,*,*,United-States,Non-Government,Other,<=50K,zane,nealaly,210,salmond sreet,noaddresstwo,golbnr,2354,vic,9062571
+38,*,51-55,*,*,*,United-States,Non-Government,Other,<=50K,jessica,seelet,5,mcdermottwtreet,noaddresstwo,enoggdjra,3840,vic,9706260
+3,*,51-55,*,*,*,United-States,Non-Government,Other,<=50K,arabella,dominic,18,chewings street,noaddresstwo,gladstone,4880,nsw,6107631
+62,*,51-55,*,*,*,United-States,Non-Government,Other,>50K,lucas,hanba,1,collings street,noaddresstwo,heathmont,6155,vic,2885368
+763,*,51-55,*,*,*,United-States,Non-Government,Other,>50K,teaha,meyer,6,straliaaglace,noaddresstwo,culgoa,4053,nsw,8734807
+703,*,51-55,*,*,*,United-States,*,*,>50K,katie,gell,8,praed place,noaddresstwo,jimboomba,6367,vic,2622544
+353,*,51-55,*,*,*,United-States,*,*,<=50K,nogivenname,mourey,19,fronda,noaddresstwo,fawkner,5073,nostate,4724325
+310,*,51-55,*,*,*,United-States,*,*,<=50K,april,wynbrrwn,906,kirwan circuit,noaddresstwo,cogr,2250,nsw,6520102
+208,*,51-55,*,*,*,United-States,*,*,<=50K,april,dance,143,finnerty place,noaddresstwo,the gap,4306,qld,8360012
+106,*,51-55,*,*,*,United-States,*,*,<=50K,nathan,mostert,74,macindoe place,st catherines host,kirwan,2151,nsw,9507155
+78,*,51-55,*,*,*,United-States,*,*,<=50K,karissa,nahrup,4,cutlack street,noaddresstwo,caboolture,6027,sa,7939039
+207,*,51-55,*,*,*,United-States,*,*,<=50K,saah,campiln,46,vidal trret,stedmoor,deniliquin,2431,nt,9482784
+426,Male,54,*,*,*,United-States,*,Other,<=50K,claire,haines,5,burdekin street,noaddresstwo,middlemount,6009,qld,3087837
+696,Male,54,*,*,*,United-States,*,Other,>50K,alayah,newton,159,galleggairvuit,dancord,ulladla,2431,sqp,5111148
+199,Male,54,*,*,*,United-States,*,Other,>50K,paris,dare,19,namatjira drive,noaddresstwo,singleton,2540,qld,6434487
+718,Male,54,*,*,*,United-States,*,Other,<=50K,nicholas,calgie,76,upton street,noaddresstwo,belgrave,3880,qld,7254659
+516,Male,54,*,*,*,United-States,*,Other,>50K,makayla,chin,9,earle street,noaddresstwo,hivesville,6155,sa,4725438
+635,Male,54,*,*,*,United-States,*,Other,<=50K,jack,catalano,69,woodfull loop,noaddresstwo,camberwell,0nan,nostate,1702187
+686,*,51-55,*,*,*,United-States,*,Other,>50K,tenille,bowden,3,brereton street,noaddresstwo,whyalla jenkins,2250,vic,5211037
+681,*,51-55,*,*,*,United-States,*,Other,<=50K,daniel,james,47,conolly place,noaddresstwo,dingley village,5480,nostate,7514010
+281,*,51-55,*,*,*,United-States,*,Other,>50K,georgia,chilcott,14,levien street,noaddresstwo,boulder,3185,vic,2057442
+309,*,51-55,*,*,*,United-States,*,Other,<=50K,natalia,charleston,1,foottettreet,noaddresstwo,cobuff,3160,qzda,2068838
+672,*,51-55,*,*,*,United-States,*,Other,<=50K,isabella,o'sullivan,122,noaddressone,mistral park,nhulunbuy,2904,sa,9514966
+20,*,51-55,*,*,*,United-States,*,Other,<=50K,thoma,walder,1,fullagar crescent,noaddresstwo,richardson,4882,axy,9452705
+775,Male,51-60,White,*,*,United-States,*,*,>50K,noah,nosurname,41,bourne street,noaddresstwo,orange,3350,wa,7443868
+750,Male,51-60,White,*,*,United-States,*,*,>50K,luke,asten,13,nuyts street,noaddresstwo,charlestown,2880,wa,1298775
+766,Male,51-60,White,*,*,United-States,*,*,<=50K,lucy,bormann,2,winder place,noaddresstwo,moe,2287,qld,2372494
+24,Male,51-60,White,*,*,United-States,*,*,>50K,jaime,palmer,10,prendergast street,noaddresstwo,dianella,4019,nsw,3743869
+714,Male,51-60,White,*,*,United-States,*,*,<=50K,joel,martin,276,narrabundah health centre,noaddresstwo,toowoomba,2077,vic,2476028
+109,Male,51-60,White,*,*,United-States,*,*,<=50K,taylah,smith,9,hurley street,emohruo,west pymble,5013,nostate,7460729
+83,*,56-60,*,*,*,*,Non-Government,*,<=50K,hayley,nosurname,20,armstronlgerscent,noaddresstwo,berowra saters,3958,nostate,7389968
+107,*,56-60,*,*,*,*,Non-Government,*,<=50K,april,smith,281,belconnen way,byron bay specialist centre,oakleigh,4151,vic,2176362
+339,*,56-60,*,*,*,*,Non-Government,*,<=50K,shasyn,lehmanm,35,currong street,noaddresstwo,springdlied,6168,sa,7863724
+678,*,56-60,*,*,*,*,Non-Government,*,<=50K,christo,gilchtzt,33,rule syreet,noaddresstwo,clontarf,6062,vic,8664523
+322,*,56-60,*,*,*,*,Non-Government,*,<=50K,zac,worth,3,rivett street,noaddresstwo,sutherland,3369,qld,9848432
+103,*,56-60,*,*,*,*,Non-Government,*,>50K,wiklm,ward,9,noaddressone,noaddresstwo,dunedoo,4054,nsw,8423161
+341,*,57,*,*,*,United-States,*,*,>50K,max,harman,163,katherine avenue,noaddresstwo,gawler east,6008,vic,8796687
+758,*,57,*,*,*,United-States,*,*,>50K,callum,penderfast,197,wolstenholme street,noaddresstwo,darlinghurst,4007,z,4624652
+42,*,57,*,*,*,United-States,*,*,>50K,reegan,brow,75,lampard ircuit,noaddresstwo,charmhaven,2445,nostate,4548445
+542,*,57,*,*,*,United-States,*,*,<=50K,james,bowerman,11,cooling place,noaddresstwo,tewantin,5481,nsw,5878178
+264,*,57,*,*,*,United-States,*,*,>50K,kyle,spence,90,woollsstreet,lambert street,fernvale,9380,nsw,4801887
+493,*,57,*,*,*,United-States,*,*,<=50K,emiily,krunic,6,ellenborough street,raafa estate,zilzie,4108,vic,2063864
+625,*,56-60,White,*,Higher education,United-States,*,*,<=50K,timothy,nordblom,100,couvreur street,daffodil,belrose,2010,nsw,7710876
+532,*,56-60,White,*,Higher education,United-States,*,*,<=50K,lucas,watson,236,de little circuit,noaddresstwo,mount gravatt,3121,vic,2677648
+175,*,56-60,White,*,Higher education,United-States,*,*,>50K,lucy,nosurname,59,outtrin vaenue,balintire east,pascoe vale south,3109,nostate,3675841
+534,*,56-60,White,*,Higher education,United-States,*,*,>50K,jaok,otrens,78,bateman street,noaddresstwo,wesrlake,2622,ql,7532974
+193,*,56-60,White,*,Higher education,United-States,*,*,>50K,charlotte,broome,32,kennedy street,noaddresstwo,rosebud,2281,vic,6169854
+227,*,56-60,White,*,Higher education,United-States,*,*,>50K,emiily,gillis,22,ashby circuit,noaddresstwo,scoresby,3099,nostate,3421859
+234,*,58,White,*,*,*,Non-Government,Other,<=50K,chloe,bachorski,33,popplewell place,st dunstan's house,traralgon,3227,qld,1155190
+692,*,58,White,*,*,*,Non-Government,Other,<=50K,shidmd,matthrw,34,currie rescent,noaddresstwo,ocean rieef,2121,vic,7579714
+584,*,58,White,*,*,*,Non-Government,Other,<=50K,jordan,harrold,35,blackwell circuit,noaddresstwo,balcatta,0870,vic,4732376
+304,*,58,White,*,*,*,Non-Government,Other,<=50K,macey,sneddon,11,custance street,lucknow,swan hill,6725,qld,6620126
+464,*,58,White,*,*,*,Non-Government,Other,<=50K,riley,pohlers,51,owen crescent,noaddresstwo,greystanes,3113,vic,3577995
+502,*,58,White,*,*,*,Non-Government,Other,<=50K,bryce,nosurname,96,mortimer lewis drive,noaddresstwo,tuart hill,2327,nostate,4793321
+449,*,59,*,*,*,United-States,*,Other,<=50K,palmee,hayley,1,noaddressone,noaddresstwo,fostdr,2077,tae,4039646
+535,*,59,*,*,*,United-States,*,Other,<=50K,matteus,egan,21,gledden street,noaddresstwo,thomastown,4213,act,1615109
+23,*,59,*,*,*,United-States,*,Other,<=50K,pakta,lagjfe,85,aspinallstreet,vevey,bayview heights,3117,vic,9056453
+76,*,59,*,*,*,United-States,*,Other,<=50K,timothy,mcbride,51,somerset street,noaddresstwo,meadowbrook,6395,vic,1164233
+243,*,59,*,*,*,United-States,*,Other,<=50K,olivia,quong,24,berne crescent,noaddresstwo,pasadena,3198,nostate,5825898
+701,*,59,*,*,*,United-States,*,Other,>50K,huho,coleman,17,bromley htreet,sawmill premises,wooeee,2090,nostate,9028025
+232,*,59,*,*,*,United-States,*,Other,<=50K,mitchell,sinnott,5,bruchnroad,noaddresstwo,murrumba downs,2706,nostate,1681734
+543,*,56-60,White,*,*,United-States,*,Other,>50K,deakin,oliver,2,doutney place,noaddresstwo,moss vale,4858,vic,3457629
+729,*,56-60,White,*,*,United-States,*,Other,>50K,ebony,henrvxyu,6,waddell place,noaddresstwo,broadeaeows,7018,qld,3543777
+591,*,56-60,White,*,*,United-States,*,Other,<=50K,thomas,welchman,7,noongale court,noaddresstwo,lenah valley,5127,nostate,9186976
+435,*,56-60,White,*,*,United-States,*,Other,>50K,abbe,coo,26,wanaga place,noaddresstwo,essendn,3222,wa,7169541
+218,*,56-60,White,*,*,United-States,*,Other,<=50K,phoenix,stephdnon,41,leahy place,noaddresstwo,kogaeah,4238,vic,8552958
+552,*,56-60,White,*,*,United-States,*,Other,<=50K,jacob,zelaya,9,deamer crescent,villa 103 henry kendall bayside,moruya,4017,nsw,8944885
+249,*,*,*,*,*,United-States,Non-Government,*,>50K,ehta,myleps,141,andado place,noaddresstwo,east sydney,2330,shy,6518832
+198,*,*,*,*,*,United-States,Non-Government,*,<=50K,michael,georgeou,10,kirkcaldie circuit,grenda grove,morang south,3184,qld,5755118
+419,*,*,*,*,*,United-States,Non-Government,*,>50K,ameile,henderson,22,charlton yuescent,noaddresstwo,mount plgasant,2364,qld,1068403
+652,*,*,*,*,*,United-States,Non-Government,*,<=50K,sophie,packer,13,yerra court,noaddresstwo,grafton,3523,nsw,6440770
+130,*,*,*,*,*,United-States,Non-Government,*,<=50K,georgeu,webbbr,9,blamey mrescent,noaddresstwo,parkdle,3199,nsw,4038823
+262,*,*,*,*,*,United-States,Non-Government,*,<=50K,saudy,christiansen,8,wybalena xrove,noaddresstwo,act in,2204,qld,3456577
+462,*,61-65,White,*,*,United-States,*,Other,<=50K,mitchell,cream,1,vasey crescent,black bream point,alderley,3206,nostate,6119100
+731,*,61-65,White,*,*,United-States,*,Other,<=50K,thomas,matson,7,merriman crescent,noaddresstwo,chisholm,5108,wa,4192914
+774,*,61-65,White,*,*,United-States,*,Other,<=50K,bianca,graham,4,brereton street,lania,leppington,3775,nsw,7377266
+334,*,61-65,White,*,*,United-States,*,Other,>50K,callum,cottle,20,noaddressone,noaddresstwo,malak,7162,nsw,5971639
+724,*,61-65,White,*,*,United-States,*,Other,<=50K,alexanfira,christisnsen,111,wybalenagrove,noaddresstwo,acton,2204,qld,3456577
+296,*,61-65,White,*,*,United-States,*,Other,<=50K,emmerson,jardine,8,cowper street,noaddresstwo,merewether,6148,nsw,6492443
+246,*,61-65,White,*,HS-grad,United-States,Non-Government,*,>50K,ashley,daly,17,bailey place,bellrock,port pirie,5169,nostate,3889453
+398,*,61-65,White,*,HS-grad,United-States,Non-Government,*,>50K,micyael,laknis,56,shann place,pitt town,blacktown,4301,qd,9622176
+751,*,61-65,White,*,HS-grad,United-States,Non-Government,*,<=50K,kaitlin,may,13,mawson drive,grand central shopping centre,pascoe vale,0nan,vic,4460641
+770,*,61-65,White,*,HS-grad,United-States,Non-Government,*,<=50K,gabrielle,nurton,7,packham place,lake kennedy street,buderim,2627,nsw,2315492
+302,*,61-65,White,*,HS-grad,United-States,Non-Government,*,<=50K,sophie,cumming,224,thozet place,common,heidelberg,2602,qld,9442424
+759,*,61-65,White,*,HS-grad,United-States,Non-Government,*,<=50K,kqsiy,wallwoirk,7,anzaropark,railway eeserve,dalby,4153,nostate,7523536
+274,*,61-65,*,*,*,United-States,Private,Other,<=50K,wade,larka,199,de burgh street,chittering,rose bay,3030,tas,4090412
+138,*,61-65,*,*,*,United-States,Private,Other,<=50K,lucas,carlton,517,maccallum circuit,noaddresstwo,ryde,2049,nostate,8968690
+742,*,61-65,*,*,*,United-States,Private,Other,>50K,bruamh,lucy,15,mirrabucca crescent,noaddresstwo,randwixk,3126,nostate,9185443
+212,*,61-65,*,*,*,United-States,Private,Other,<=50K,arabella,slierings,22,mcconnel crescent,flt 2,lakes entrance,6026,nsw,7253332
+329,*,61-65,*,*,*,United-States,Private,Other,<=50K,indyana,heagerty,59,rowley place,noaddresstwo,caboolture,4165,nsw,2731820
+572,*,61-65,*,*,*,United-States,Private,Other,<=50K,kobla,suvlc,8,marcusclarfe street,glen eira,withcott,3186,vyc,2191533
+305,*,66-70,White,*,*,United-States,*,Other,<=50K,jackson,fenemore,1,mahaffey crescent,noaddresstwo,kew,4108,vic,4173832
+156,*,66-70,White,*,*,United-States,*,Other,<=50K,matthew,musolino,31,smalley circuit,noaddresstwo,neutral bay,2285,vic,5048566
+491,*,66-70,White,*,*,United-States,*,Other,>50K,annabel,sebastiani,34,lloyd place,noaddresstwo,maryborough,6104,qld,9825338
+737,*,66-70,White,*,*,United-States,*,Other,<=50K,charles,boesel,38,nott street,glenovo,florey,3977,nsw,2840163
+210,*,66-70,White,*,*,United-States,*,Other,<=50K,hayke,szabados,2,armstrong crescent,noaddresstwo,berowrane aters,3953,pic,7388968
+438,*,66-70,White,*,*,United-States,*,Other,<=50K,isabella,ward,1,noaddressone,noaddresstwo,normanuhrst,2430,qle,3914554
+765,*,61-80,*,*,*,United-States,Non-Government,*,<=50K,david,johnston,17,jarvis place,noaddresstwo,ferntree gully,2162,vic,8185586
+597,*,61-80,*,*,*,United-States,Non-Government,*,<=50K,mathe,dodd,320,spafford crescent,noaddresstwo,rockhampton,4053,nostate,7194927
+511,*,61-80,*,*,*,United-States,Non-Government,*,<=50K,spyke,kaesler,8,ross smith crescent,sandalwood,dingley village,2480,wa,7179480
+134,*,61-80,*,*,*,United-States,Non-Government,*,<=50K,jack,massey,3,larcombe crescent,mountlea,helensvale,4670,qld,1299269
+145,*,61-80,*,*,*,United-States,Non-Government,*,<=50K,sarah,barbaro,54,drysdale circuit,noaddresstwo,rosebank,3150,qld,4117804
+508,*,61-80,*,*,*,United-States,Non-Government,*,<=50K,trent,woodforde,14,kerrigan street,noaddresstwo,grafton,3219,vic,1536108
+92,*,*,*,*,*,*,Non-Government,*,>50K,william,nosurname,39,discovery street,noaddresstwo,eltham,6172,tas,7105163
+301,*,*,*,*,*,*,Non-Government,*,<=50K,tara,wilson,138,pawsey circuit,good-lands,plympton north,5041,qld,3273475
+68,*,*,*,*,*,*,Non-Government,*,<=50K,tykrr,speglic,3,becke place,noaddresstwo,nosuburb,3163,nsw,8886450
+293,*,*,*,*,*,*,Non-Government,*,<=50K,jayen,weekds,17,brookmanrstreet,noaddresstwo,murdunna,3451,sa,1194220
+484,*,*,*,*,*,*,Non-Government,*,<=50K,asha,nosurname,22,castlereagh crescent,noaddresstwo,bathurst,2527,qld,4197883
+211,*,*,*,*,*,*,Non-Government,*,<=50K,jed,lovell,0,noaddressone,country road est,marsfield,2090,nsw,1613148
+206,*,*,*,*,*,*,Non-Government,*,<=50K,matthew,nosurname,47,west place,noaddresstwo,capalaba,2263,nsw,2548160

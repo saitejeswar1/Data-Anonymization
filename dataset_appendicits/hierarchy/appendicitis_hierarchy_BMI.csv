@@ -1,0 +1,9 @@
+1,Severe_thinness,Underweight,*
+2,Moderate_thinness,Underweight,*
+3,Mild_thinness,Underweight,*
+4,Normal_range,Normal,*
+5,Pre-obese,Overweight,*
+6,Moderately_obese,Obese,*
+7,Severely_obese,Obese,*
+8,Extremely_obese,Obese,*
+9,0,Unknown,*
